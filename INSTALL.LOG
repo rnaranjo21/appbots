@@ -1,0 +1,455 @@
+***  Installation Started 11/04/2010 11:52  ***
+Title: CSSN SDK Version 9.41.16 Installation
+Source: C:\Documents and Settings\Administrador\Escritorio\ScanShell\Scan CssN\SDK\sdk_setup.exe | 08-08-2010 | 15:54:22 | 77924193
+File Copy: C:\Documents and Settings\Administrador\Configuración local\Temp\SDK Agreement.txt | 03-11-2009 | 09:44:00 | | 7649 | 2c78b705
+Delete old SDK files from: C:\DOCUME~1\ADMINI~1\CONFIG~1\Temp
+Delete old SDK files from: C:\WINDOWS\system32
+Delete old SDK files from: C:\WINDOWS\system32
+Delete old SDK files from: C:\WINDOWS
+Delete old SDK files from: C:\WINDOWS
+File Copy: C:\WINDOWS\system32\SlibEx.dll | 08-05-2010 | 22:37:24 | 4.4.0.0 | 11972608 | 6aa9f75b
+File Copy: C:\WINDOWS\system32\SLib.dll | 08-05-2010 | 22:37:48 | 9.3.9.22 | 1294336 | ba11912
+File Copy: C:\WINDOWS\system32\CImage.dll | 08-05-2010 | 08:56:22 | 1.0.3.0 | 282624 | 875528a0
+File Copy: C:\WINDOWS\system32\ImageCtrl.dll | 08-05-2010 | 22:37:12 | 7.9.5.13 | 81920 | 80f0e62c
+File Copy: C:\WINDOWS\system32\OCR_PreProc.dll | 08-05-2010 | 08:57:12 | 22.41.1.11 | 1388544 | 257cdcc1
+File Copy: C:\WINDOWS\system32\CS4K.dll | 08-05-2010 | 22:39:08 | 8.8.0.5 | 32768 | 3a727de1
+File Copy: C:\WINDOWS\system32\TwainScan.exe | 08-05-2010 | 22:39:12 | 8.3.0.0 | 741376 | c83052b8
+File Overwrite: C:\WINDOWS\system32\DynamicTwainCtrl.dll | 07-23-2010 | 08:40:32 | 4.1.0.0 | 294912 | b3af369e
+File Copy: C:\WINDOWS\system32\SoapAct.dll | 08-05-2010 | 22:37:04 | 2.0.0.1 | 106496 | 85f5c165
+Shared DLL counter ignored:
+File Overwrite: C:\WINDOWS\system32\msvcrt.dll | | | | 278581 | d19a6d29
+File Overwrite: C:\WINDOWS\system32\mfc42.dll | 08-19-2004 | 12:42:14 | 6.2.4131.0 | 995383 | 365b5bd0
+File Copy: C:\Archivos de programa\Card Scanning Solutions\SDK\UNWISE.EXE | 07-26-2002 | 17:02:06 | | 153088 | 5be5019b
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\CSSN SDK Version 9.41.16
+RegDB Val: CSSN SDK Version 9.41.16
+RegDB Name: DisplayName
+RegDB Root: 2
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\CSSN SDK Version 9.41.16
+RegDB Val: C:\ARCHIV~1\CARDSC~1\SDK\UNWISE.EXE C:\ARCHIV~1\CARDSC~1\SDK\INSTALL.LOG
+RegDB Name: UninstallString
+RegDB Root: 2
+Made Dir: C:\Archivos de programa\Card Scanning Solutions\SDK\ScanShell800DX 32 bit
+File Copy: C:\Archivos de programa\Card Scanning Solutions\SDK\ScanShell800DX 32 bit\SS800DX.DLL | 12-15-2009 | 19:16:38 | 1.2.1.7 | 437248 | 59cb9c28
+File Copy: C:\Archivos de programa\Card Scanning Solutions\SDK\ScanShell800DX 32 bit\SS800DX.ds | 12-15-2009 | 19:17:04 | 3.4.2.3 | 631808 | 8c8e8ef3
+File Copy: C:\Archivos de programa\Card Scanning Solutions\SDK\ScanShell800DX 32 bit\SS800DX.inf | 02-21-2010 | 12:32:42 | | 2958 | 3a5c85e8
+File Copy: C:\Archivos de programa\Card Scanning Solutions\SDK\ScanShell800DX 32 bit\SS8DXWIA.DLL | 12-15-2009 | 19:16:46 | 1.2.1.3 | 252416 | c2089df3
+File Copy: C:\Archivos de programa\Card Scanning Solutions\SDK\ScanShell800DX 32 bit\SS8DXWUI.dll | 12-15-2009 | 19:16:54 | 1.2.1.3 | 214528 | 22be757e
+Made Dir: C:\Archivos de programa\Card Scanning Solutions\SDK\ScanShell800DXN 32 bit
+File Copy: C:\Archivos de programa\Card Scanning Solutions\SDK\ScanShell800DXN 32 bit\SS800DXN.DLL | 12-15-2009 | 19:19:38 | 1.2.1.7 | 437760 | 5422c1a8
+File Copy: C:\Archivos de programa\Card Scanning Solutions\SDK\ScanShell800DXN 32 bit\SS800DXN.ds | 12-15-2009 | 19:19:58 | 3.4.2.3 | 631808 | 48067d48
+File Copy: C:\Archivos de programa\Card Scanning Solutions\SDK\ScanShell800DXN 32 bit\SS800DXN.inf | 02-18-2010 | 15:32:22 | | 2973 | 7ff8db8f
+File Copy: C:\Archivos de programa\Card Scanning Solutions\SDK\ScanShell800DXN 32 bit\SS8DNWIA.DLL | 12-15-2009 | 19:19:44 | 1.2.1.3 | 252416 | f54a2319
+File Copy: C:\Archivos de programa\Card Scanning Solutions\SDK\ScanShell800DXN 32 bit\SS8DNWUI.dll | 12-15-2009 | 19:19:52 | 1.2.1.3 | 214528 | 86b05278
+File Copy: C:\Archivos de programa\Card Scanning Solutions\SDK\SDK Agreement.pdf | 03-11-2009 | 10:28:34 | | 13889 | 4155fe49
+File Copy: C:\Archivos de programa\Card Scanning Solutions\SDK\test5.gar | 08-27-2004 | 00:10:00 | | 5471684 | c9884d00
+File Copy: C:\Archivos de programa\Card Scanning Solutions\SDK\test5.n3s | 08-27-2004 | 00:10:00 | | 874404 | e297c384
+File Copy: C:\Archivos de programa\Card Scanning Solutions\SDK\test5.qnp | 08-27-2004 | 00:10:00 | | 200024 | 2b4016f6
+File Copy: C:\Archivos de programa\Card Scanning Solutions\SDK\test5.teh | 08-27-2004 | 00:10:00 | | 1274620 | 8d3b948a
+File Copy: C:\Archivos de programa\Card Scanning Solutions\SDK\TOCRR.ini | 08-19-2007 | 11:04:30 | | 128 | 1e21f411
+File Copy: C:\Archivos de programa\Card Scanning Solutions\SDK\TOCRRdll.dll | 08-19-2007 | 11:04:30 | 1.0.3.102 | 86016 | dee6aea6
+File Copy: C:\Archivos de programa\Card Scanning Solutions\SDK\TOCRRService.exe | 08-27-2004 | 00:10:00 | 1.0.3.102 | 495616 | 142319e7
+File Copy: C:\Archivos de programa\Card Scanning Solutions\SDK\CImage.dll | 08-05-2010 | 08:56:22 | 1.0.3.0 | 282624 | 875528a0
+File Copy: C:\Archivos de programa\Card Scanning Solutions\SDK\OCR_PreProc.dll | 08-05-2010 | 08:57:12 | 22.41.1.11 | 1388544 | 257cdcc1
+File Copy: C:\Archivos de programa\Card Scanning Solutions\SDK\SoapAct.dll | 08-05-2010 | 22:37:04 | 2.0.0.1 | 106496 | 85f5c165
+File Copy: C:\Archivos de programa\Card Scanning Solutions\SDK\SlibEx.dll | 08-05-2010 | 22:37:24 | 4.4.0.0 | 11972608 | 6aa9f75b
+File Copy: C:\Archivos de programa\Card Scanning Solutions\SDK\SLib.dll | 08-05-2010 | 22:37:48 | 9.3.9.22 | 1294336 | ba11912
+File Copy: C:\Archivos de programa\Card Scanning Solutions\SDK\imgForm.DLL | 08-19-2007 | 11:04:30 | 1.1.6.10 | 472064 | 127144eb
+Shared DLL counter ignored:
+File Overwrite: C:\WINDOWS\system32\imgForm.DLL | 08-19-2007 | 11:04:30 | 1.1.6.10 | 472064 | 127144eb
+File Copy: C:\Archivos de programa\Card Scanning Solutions\SDK\ImageCtrl.dll | 08-05-2010 | 22:37:12 | 7.9.5.13 | 81920 | 80f0e62c
+File Copy: C:\Archivos de programa\Card Scanning Solutions\SDK\SOCRdll.dll | 08-05-2010 | 22:37:52 | 7.5.11.6 | 73728 | 3b6bdf3b
+File Copy: C:\Archivos de programa\Card Scanning Solutions\SDK\MacroHook.dll | 08-05-2010 | 22:39:12 | | 49152 | 42cece31
+File Copy: C:\Archivos de programa\Card Scanning Solutions\SDK\DynamicFieldExtraction.dll | 08-05-2010 | 22:39:18 | 1.0.1.6 | 180224 | e2680193
+File Copy: C:\Archivos de programa\Card Scanning Solutions\SDK\lib0.lib | 05-24-2010 | 09:04:04 | | 137850 | 3b77fc83
+File Copy: C:\Archivos de programa\Card Scanning Solutions\SDK\lib1.lib | 05-24-2010 | 09:04:04 | | 157918 | 67675ba5
+File Copy: C:\Archivos de programa\Card Scanning Solutions\SDK\lib2.lib | 05-24-2010 | 09:04:04 | | 2089735 | 61b01d0d
+File Copy: C:\Archivos de programa\Card Scanning Solutions\SDK\dic.dll | 08-05-2010 | 22:37:02 | 2.0.0.4 | 45056 | d57a82ee
+File Copy: C:\Archivos de programa\Card Scanning Solutions\SDK\EngRotDB.bin | 07-20-2009 | 21:21:22 | | 109814 | adca6e7
+File Copy: C:\Archivos de programa\Card Scanning Solutions\SDK\UsaIDs.bin | 07-07-2010 | 14:35:04 | | 2593067 | 90efba6f
+File Copy: C:\Archivos de programa\Card Scanning Solutions\SDK\CSSNUpdatesSkipList.txt
+File Copy: C:\Archivos de programa\Card Scanning Solutions\SDK\UsaIDs.dat | 08-05-2010 | 11:18:34 | | 1303674 | 2d467718
+File Copy: C:\Archivos de programa\Card Scanning Solutions\SDK\Snps_UsaIDs.dat | 08-05-2010 | 11:06:42 | | 1380520 | 30a8f01f
+File Overwrite: C:\Archivos de programa\Card Scanning Solutions\SDK\UsaIDs.bin | 07-07-2010 | 14:35:04 | | 2593067 | 90efba6f
+File Copy: C:\Archivos de programa\Card Scanning Solutions\SDK\CanadaIDs.dat | 05-24-2010 | 09:04:48 | | 160942 | eb371c1
+File Copy: C:\Archivos de programa\Card Scanning Solutions\SDK\Snps_CanadaIDs.dat | 08-04-2010 | 17:06:24 | | 165986 | ac93ac06
+File Copy: C:\Archivos de programa\Card Scanning Solutions\SDK\CanadaIDs.bin | 03-17-2010 | 09:56:34 | | 358147 | af29c809
+File Copy: C:\Archivos de programa\Card Scanning Solutions\SDK\AmericaIDs.dat | 08-05-2010 | 12:03:10 | | 246892 | 67558999
+File Copy: C:\Archivos de programa\Card Scanning Solutions\SDK\Snps_AmericaIDs.dat | 08-01-2010 | 08:35:40 | | 243814 | 43975121
+File Copy: C:\Archivos de programa\Card Scanning Solutions\SDK\AmericaIDs.bin | 04-18-2010 | 11:25:08 | | 1286426 | 3b70f0ab
+File Copy: C:\Archivos de programa\Card Scanning Solutions\SDK\EuropeSIDs.dat | 08-05-2010 | 08:46:48 | | 139495 | 4e7e3055
+File Copy: C:\Archivos de programa\Card Scanning Solutions\SDK\EuropeIDs.dat | 08-05-2010 | 11:06:40 | | 557872 | 8f349a32
+File Copy: C:\Archivos de programa\Card Scanning Solutions\SDK\EuropeBwIDs.dat | 08-05-2010 | 08:46:48 | | 555740 | 8d973363
+File Copy: C:\Archivos de programa\Card Scanning Solutions\SDK\Snps_EuropeBwIDs.dat | 08-05-2010 | 08:46:48 | | 349229 | 57f34e2f
+File Copy: C:\Archivos de programa\Card Scanning Solutions\SDK\Snps_EuropeIDs.dat | 08-05-2010 | 08:46:48 | | 491437 | 804acd45
+File Copy: C:\Archivos de programa\Card Scanning Solutions\SDK\Snps_EuropeSIDs.dat | 08-05-2010 | 08:46:48 | | 139371 | f161695d
+File Copy: C:\Archivos de programa\Card Scanning Solutions\SDK\EuropeIDs.bin | 08-04-2010 | 17:06:24 | | 1674262 | e75bf89c
+File Copy: C:\Archivos de programa\Card Scanning Solutions\SDK\AustraliaIDs.dat | 06-28-2010 | 08:42:02 | | 228385 | 9c12ea98
+File Copy: C:\Archivos de programa\Card Scanning Solutions\SDK\Snps_AustraliaIDs.dat | 08-01-2010 | 08:35:40 | | 222174 | 863aeed
+File Copy: C:\Archivos de programa\Card Scanning Solutions\SDK\AustraliaIDs.bin | 06-01-2010 | 12:08:34 | | 537602 | 45b64c04
+File Copy: C:\Archivos de programa\Card Scanning Solutions\SDK\AsiaIDs.dat | 05-27-2010 | 08:04:40 | | 157268 | 73a85ce7
+File Copy: C:\Archivos de programa\Card Scanning Solutions\SDK\Snps_AsiaIDs.dat | 08-08-2010 | 15:37:06 | | 117741 | c235a081
+File Copy: C:\Archivos de programa\Card Scanning Solutions\SDK\AsiaIDs.bin | 05-27-2010 | 08:04:40 | | 774574 | 654307bf
+File Copy: C:\Archivos de programa\Card Scanning Solutions\SDK\GeneralIDs.dat | 08-05-2010 | 08:46:48 | | 146253 | 51424d5b
+File Copy: C:\Archivos de programa\Card Scanning Solutions\SDK\Snps_GeneralIDs.dat | 08-05-2010 | 08:46:48 | | 124201 | 85ad1a01
+File Copy: C:\Archivos de programa\Card Scanning Solutions\SDK\AfricaIDs.dat | 08-05-2010 | 08:46:48 | | 18367 | 985d529d
+File Copy: C:\Archivos de programa\Card Scanning Solutions\SDK\Snps_AfricaIDs.dat | 06-16-2010 | 14:24:00 | | 11045 | a2cbee3f
+File Copy: C:\Archivos de programa\Card Scanning Solutions\SDK\AfricaIDs.bin | 07-04-2010 | 09:17:26 | | 65340 | 5bf29c68
+File Copy: C:\Archivos de programa\Card Scanning Solutions\SDK\Passports.dat | 08-05-2010 | 20:06:10 | | 658144 | 359d098c
+File Copy: C:\Archivos de programa\Card Scanning Solutions\SDK\Snps_Passports.dat | 05-13-2009 | 12:34:24 | | 389068 | 54d61983
+File Copy: C:\Archivos de programa\Card Scanning Solutions\SDK\MRZlines.dat | 10-15-2007 | 11:18:44 | | 3264 | cf4d2e3a
+File Copy: C:\Archivos de programa\Card Scanning Solutions\SDK\Parser.dll | 08-05-2010 | 22:37:58 | 7.7.1.0 | 40960 | 1fcfcab2
+File Copy: C:\Archivos de programa\Card Scanning Solutions\SDK\BarCode.dll | 08-05-2010 | 22:38:04 | 7.16.1.12 | 135168 | 63561439
+File Copy: C:\Archivos de programa\Card Scanning Solutions\SDK\IdCard.dll | 08-05-2010 | 22:38:26 | 8.3.3.3 | 888832 | b75cc2da
+File Copy: C:\Archivos de programa\Card Scanning Solutions\SDK\DVLA.dll | 08-05-2010 | 22:36:24 | 1.0.0.2 | 319488 | a3e1604b
+File Copy: C:\Archivos de programa\Card Scanning Solutions\SDK\HebRotDB.bin | 07-20-2009 | 21:21:22 | | 103334 | 1b6c6e62
+File Copy: C:\Archivos de programa\Card Scanning Solutions\SDK\DVLA.dat | 08-01-2010 | 08:35:40 | | 126449 | 9740a333
+File Copy: C:\Archivos de programa\Card Scanning Solutions\SDK\ScanW.dll | 08-05-2010 | 22:36:00 | 7.4.0.5 | 73728 | b6062544
+File Copy: C:\Archivos de programa\Card Scanning Solutions\SDK\ScanWex.dll | 08-05-2010 | 22:36:28 | 9.3.17.10 | 90112 | 31ecdd7f
+File Copy: C:\Archivos de programa\Card Scanning Solutions\SDK\ScanX.dll | 04-27-2010 | 15:15:18 | 4.3.0.1 | 290816 | e07f6e6c
+Register File: "C:\Archivos de programa\Card Scanning Solutions\SDK\ScanW.dll" returned -  0
+Execute path: C:\WINDOWS\system32\regsvr32.exe /u /s "C:\Archivos de programa\Card Scanning Solutions\SDK\ScanW.dll"
+Register File: "C:\Archivos de programa\Card Scanning Solutions\SDK\ScanWex.dll" returned -  0
+Execute path: C:\WINDOWS\system32\regsvr32.exe /u /s "C:\Archivos de programa\Card Scanning Solutions\SDK\ScanWex.dll"
+Register File: "C:\Archivos de programa\Card Scanning Solutions\SDK\ScanX.dll" returned -  0
+Execute path: C:\WINDOWS\system32\regsvr32.exe /u /s "C:\Archivos de programa\Card Scanning Solutions\SDK\ScanX.dll"
+File Copy: C:\Archivos de programa\Card Scanning Solutions\SDK\NetScanW.dll | 02-19-2009 | 16:03:38 | 1.0.0.6 | 32768 | b02bf2d3
+File Copy: C:\Archivos de programa\Card Scanning Solutions\SDK\NetScanWex.dll | 07-23-2010 | 08:04:48 | 1.1.0.8 | 23040 | ba548a93
+File Copy: C:\Archivos de programa\Card Scanning Solutions\SDK\snNetScanW.dll | 02-19-2009 | 16:03:38 | 1.0.0.6 | 23040 | 7aadcab2
+File Copy: C:\Archivos de programa\Card Scanning Solutions\SDK\snNetScanWex.dll | 07-23-2010 | 08:04:54 | 1.1.0.8 | 36864 | 328750b6
+File Copy: C:\Archivos de programa\Card Scanning Solutions\SDK\ScanW.pdf | 08-08-2010 | 15:49:14 | | 705425 | a691b45d
+File Copy: C:\Archivos de programa\Card Scanning Solutions\SDK\SDK Fields assignement.pdf | 04-15-2007 | 15:19:36 | | 432383 | 36985ff5
+File Copy: C:\Archivos de programa\Card Scanning Solutions\SDK\ScanWex.pdf | 08-08-2010 | 15:45:22 | | 476848 | 5c0c0efd
+File Copy: C:\Archivos de programa\Card Scanning Solutions\SDK\VC SDK.pdf | 08-08-2010 | 15:41:04 | | 315564 | 72dc1923
+File Copy: C:\Archivos de programa\Card Scanning Solutions\SDK\ScanX.pdf | 08-08-2010 | 15:42:44 | | 1071214 | dc1d6239
+File Copy: C:\Archivos de programa\Card Scanning Solutions\SDK\IpScan Manual.pdf | 09-21-2009 | 14:42:38 | | 4037204 | f24faf85
+File Copy: C:\Archivos de programa\Card Scanning Solutions\SDK\BizLib.dll | 08-05-2010 | 22:38:46 | 3.1.2.8 | 602112 | fab79590
+File Copy: C:\Archivos de programa\Card Scanning Solutions\SDK\BizCOM.dll | 08-05-2010 | 22:32:44 | 2.2.1.2 | 36864 | 241f87f1
+File Copy: C:\Archivos de programa\Card Scanning Solutions\SDK\BizComX.dll | 03-01-2010 | 14:43:14 | 1.0.0.5 | 57344 | 45c498f1
+Register File: "C:\Archivos de programa\Card Scanning Solutions\SDK\BizCOM.dll" returned -  0
+Execute path: C:\WINDOWS\system32\regsvr32.exe /u /s "C:\Archivos de programa\Card Scanning Solutions\SDK\BizCOM.dll"
+Register File: "C:\Archivos de programa\Card Scanning Solutions\SDK\BizComX.dll" returned -  0
+Execute path: C:\WINDOWS\system32\regsvr32.exe /u /s "C:\Archivos de programa\Card Scanning Solutions\SDK\BizComX.dll"
+File Copy: C:\Archivos de programa\Card Scanning Solutions\SDK\NetBizCOM.dll | 03-01-2010 | 14:34:00 | 1.0.4.6 | 6656 | 6dc5a058
+File Copy: C:\Archivos de programa\Card Scanning Solutions\SDK\snNetBizCOM.dll | 03-01-2010 | 14:34:08 | 1.0.4.6 | 6656 | 1f8c739f
+File Copy: C:\Archivos de programa\Card Scanning Solutions\SDK\BizCOM.pdf | 08-08-2010 | 15:48:20 | | 328279 | 371988d6
+File Copy: C:\Archivos de programa\Card Scanning Solutions\SDK\BizComX.pdf | 08-08-2010 | 15:47:36 | | 330044 | 59a0788f
+File Copy: C:\Archivos de programa\Card Scanning Solutions\SDK\ChecksDB.bin | 02-06-2006 | 22:14:40 | | 17716 | 2561e74b
+File Copy: C:\Archivos de programa\Card Scanning Solutions\SDK\CheckLib.dll | 08-05-2010 | 22:37:56 | 2.5.18.0 | 405504 | 564d1c04
+File Copy: C:\Archivos de programa\Card Scanning Solutions\SDK\ChequeCOM.dll | 08-05-2010 | 22:34:04 | 2.0.0.3 | 32768 | 46a815d6
+Register File: "C:\Archivos de programa\Card Scanning Solutions\SDK\ChequeCOM.dll" returned -  0
+Execute path: C:\WINDOWS\system32\regsvr32.exe /u /s "C:\Archivos de programa\Card Scanning Solutions\SDK\ChequeCOM.dll"
+File Copy: C:\Archivos de programa\Card Scanning Solutions\SDK\NetChequeCOM.dll | 02-19-2009 | 16:03:38 | 1.0.0.4 | 6144 | 34234e4e
+File Copy: C:\Archivos de programa\Card Scanning Solutions\SDK\snNetChequeCOM.dll | 02-19-2009 | 16:03:38 | 1.0.0.4 | 6144 | 83114669
+File Copy: C:\Archivos de programa\Card Scanning Solutions\SDK\ChequeCOM.pdf | 08-08-2010 | 15:46:34 | | 340896 | 2d327c8f
+File Copy: C:\Archivos de programa\Card Scanning Solutions\SDK\Medical.dat | 12-13-2009 | 19:25:46 | | 32833 | ec38742a
+File Copy: C:\Archivos de programa\Card Scanning Solutions\SDK\Medical.bin | 12-13-2009 | 19:25:46 | | 1689974 | c9dd395f
+File Copy: C:\Archivos de programa\Card Scanning Solutions\SDK\lib3.lib | 12-14-2009 | 08:59:20 | | 127319 | 6079e71a
+File Copy: C:\Archivos de programa\Card Scanning Solutions\SDK\MedLib.dll | 08-05-2010 | 22:38:54 | 1.5.3.9 | 659456 | d7615414
+File Copy: C:\Archivos de programa\Card Scanning Solutions\SDK\MedicSdkCOM.dll | 08-05-2010 | 22:39:00 | 1.15.0.3 | 131072 | d5dbbacd
+File Copy: C:\Archivos de programa\Card Scanning Solutions\SDK\MedicSdk.ocx | 08-05-2010 | 22:39:04 | 1.15.0.8 | 151552 | e0916b6b
+Register File: "C:\Archivos de programa\Card Scanning Solutions\SDK\MedicSdkCOM.dll" returned -  0
+Execute path: C:\WINDOWS\system32\regsvr32.exe /u /s "C:\Archivos de programa\Card Scanning Solutions\SDK\MedicSdkCOM.dll"
+Register File: "C:\Archivos de programa\Card Scanning Solutions\SDK\MedicSdk.ocx" returned -  0
+Execute path: C:\WINDOWS\system32\regsvr32.exe /u /s "C:\Archivos de programa\Card Scanning Solutions\SDK\MedicSdk.ocx"
+File Copy: C:\Archivos de programa\Card Scanning Solutions\SDK\MedicSDK.pdf | 08-08-2010 | 15:50:42 | | 790757 | 204db99a
+File Copy: C:\Archivos de programa\Card Scanning Solutions\SDK\HTTPWizard3.ocx | 03-20-2005 | 23:14:00 | 3.1.32.0 | 421888 | 51c9359c
+File Copy: C:\Archivos de programa\Card Scanning Solutions\SDK\Msflxgrd.ocx | 08-19-2007 | 11:04:30 | 6.0.84.18 | 244416 | 91011418
+File Copy: C:\Archivos de programa\Card Scanning Solutions\SDK\Mscomctl.ocx | 08-19-2007 | 11:04:30 | 6.0.88.62 | 1066176 | 9741d4a2
+File Copy: C:\Archivos de programa\Card Scanning Solutions\SDK\CSSNResume.exe | 11-19-2007 | 12:48:12 | 2.0.0.1 | 40960 | a77e20da
+File Copy: C:\Archivos de programa\Card Scanning Solutions\SDK\CSSNUpdates.exe | 06-19-2008 | 08:53:20 | 4.0.0.1 | 385024 | 5c109a7a
+File Copy: C:\Archivos de programa\Card Scanning Solutions\SDK\CSSNRestore.exe | 11-17-2005 | 12:34:08 | 1.0.0.0 | 24576 | 1716efc1
+File Copy: C:\Archivos de programa\Card Scanning Solutions\SDK\UNIX2DOS.exe | 08-19-2007 | 11:04:30 | | 24576 | e928c095
+File Copy: C:\Archivos de programa\Card Scanning Solutions\SDK\FileCheckSum.exe | 12-05-2007 | 18:38:28 | 2003.0.0.0 | 45056 | 644c199c
+File Copy: C:\Archivos de programa\Card Scanning Solutions\SDK\CSSNUpdatesHelper.ocx | 05-27-2009 | 17:45:12 | 4.0.0.4 | 114688 | 56b88ab3
+File Copy: C:\Archivos de programa\Card Scanning Solutions\SDK\CSSNUpdates.ocx | 05-27-2009 | 17:45:12 | 4.0.0.4 | 114688 | 56b88ab3
+File Copy: C:\Archivos de programa\Card Scanning Solutions\SDK\CSSNUpdatesAfter.exe | 05-24-2009 | 10:40:42 | 1.0.0.4 | 45056 | 20b35bd9
+Preserve Existing: Following file not copied.
+ File Copy: C:\Archivos de programa\Card Scanning Solutions\SDK\CSSNUpdatesSkipList.txt
+File Copy: C:\Archivos de programa\Card Scanning Solutions\SDK\CSSN updates SDK.pdf | 08-08-2010 | 15:51:18 | | 171611 | 6e113ad1
+File Copy: C:\Archivos de programa\Card Scanning Solutions\SDK\lib4.lib | 07-21-2008 | 12:52:54 | | 73396 | 1629fa85
+File Copy: C:\Archivos de programa\Card Scanning Solutions\SDK\ReceiptLib.dll | 08-05-2010 | 22:31:16 | 1.0.0.7 | 462848 | f25e3eea
+File Copy: C:\Archivos de programa\Card Scanning Solutions\SDK\ReceiptCOM.dll | 08-05-2010 | 22:31:18 | 1.0.0.2 | 32768 | 5512e388
+Register File: "C:\Archivos de programa\Card Scanning Solutions\SDK\ReceiptCOM.dll" returned -  0
+Execute path: C:\WINDOWS\system32\regsvr32.exe /u /s "C:\Archivos de programa\Card Scanning Solutions\SDK\ReceiptCOM.dll"
+File Copy: C:\Archivos de programa\Card Scanning Solutions\SDK\NetReceiptCOM.dll | 06-14-2009 | 13:35:10 | 1.0.0.1 | 6144 | 398c0fdd
+File Copy: C:\Archivos de programa\Card Scanning Solutions\SDK\ReceiptCOM.pdf | 08-08-2010 | 15:50:04 | | 339271 | ee54d88
+File Copy: C:\Archivos de programa\Card Scanning Solutions\SDK\Version.txt | 08-05-2010 | 08:52:50 | | 28 | 832e5103
+File Copy: C:\Archivos de programa\Card Scanning Solutions\SDK\slib.ini | 07-07-2010 | 10:45:58 | | 182 | 2d0b0228
+INI File: C:\Archivos de programa\Card Scanning Solutions\SDK\slib.ini
+INI Sect: Scanner Setting
+INI Item: ScannerModel
+INI Val: -1
+Shell Link: C:\Documents and Settings\All Users\Menú Inicio\Programas\Card Scanning Solutions\SDK\VC SDK.lnk
+Link Info: C:\Archivos de programa\Card Scanning Solutions\SDK\VC SDK.pdf |  | C:\ARCHIV~1\CARDSC~1\SDK\VC SDK.pdf | 0 | 1 | 0 | 
+Shell Link: C:\Documents and Settings\All Users\Menú Inicio\Programas\Card Scanning Solutions\SDK\ScanW.lnk
+Link Info: C:\Archivos de programa\Card Scanning Solutions\SDK\ScanW.pdf |  | C:\ARCHIV~1\CARDSC~1\SDK\ScanW.pdf | 0 | 1 | 0 | 
+Shell Link: C:\Documents and Settings\All Users\Menú Inicio\Programas\Card Scanning Solutions\SDK\ScanWex.lnk
+Link Info: C:\Archivos de programa\Card Scanning Solutions\SDK\ScanWex.pdf |  | C:\ARCHIV~1\CARDSC~1\SDK\ScanWex.pdf | 0 | 1 | 0 | 
+Shell Link: C:\Documents and Settings\All Users\Menú Inicio\Programas\Card Scanning Solutions\SDK\ScanX.lnk
+Link Info: C:\Archivos de programa\Card Scanning Solutions\SDK\ScanX.pdf |  | C:\ARCHIV~1\CARDSC~1\SDK\ScanX.pdf | 0 | 1 | 0 | 
+Shell Link: C:\Documents and Settings\All Users\Menú Inicio\Programas\Card Scanning Solutions\SDK\BizCOM.lnk
+Link Info: C:\Archivos de programa\Card Scanning Solutions\SDK\BizCOM.pdf |  | C:\ARCHIV~1\CARDSC~1\SDK\BizCOM.pdf | 0 | 1 | 0 | 
+Shell Link: C:\Documents and Settings\All Users\Menú Inicio\Programas\Card Scanning Solutions\SDK\BizCOMX.lnk
+Link Info: C:\Archivos de programa\Card Scanning Solutions\SDK\BizComX.pdf |  | C:\ARCHIV~1\CARDSC~1\SDK\BizComX.pdf | 0 | 1 | 0 | 
+Shell Link: C:\Documents and Settings\All Users\Menú Inicio\Programas\Card Scanning Solutions\SDK\ChequeCOM.lnk
+Link Info: C:\Archivos de programa\Card Scanning Solutions\SDK\ChequeCOM.pdf |  | C:\ARCHIV~1\CARDSC~1\SDK\ChequeCOM.pdf | 0 | 1 | 0 | 
+Shell Link: C:\Documents and Settings\All Users\Menú Inicio\Programas\Card Scanning Solutions\SDK\MedicSDK.lnk
+Link Info: C:\Archivos de programa\Card Scanning Solutions\SDK\MedicSDK.pdf |  | C:\ARCHIV~1\CARDSC~1\SDK\MedicSDK.pdf | 0 | 1 | 0 | 
+Shell Link: C:\Documents and Settings\All Users\Menú Inicio\Programas\Card Scanning Solutions\SDK\CSSN updates SDK.lnk
+Link Info: C:\Archivos de programa\Card Scanning Solutions\SDK\CSSN updates SDK.pdf |  | C:\ARCHIV~1\CARDSC~1\SDK\CSSN updates SDK.pdf | 0 | 1 | 0 | 
+Shell Link: C:\Documents and Settings\All Users\Menú Inicio\Programas\Card Scanning Solutions\SDK\ReceiptCOM.lnk
+Link Info: C:\Archivos de programa\Card Scanning Solutions\SDK\ReceiptCOM.pdf |  | C:\ARCHIV~1\CARDSC~1\SDK\ReceiptCOM.pdf | 0 | 1 | 0 | 
+Shell Link: C:\Documents and Settings\All Users\Menú Inicio\Programas\Card Scanning Solutions\SDK\CSSN updates SDK.lnk
+Link Info: C:\ARCHIV~1\CARDSC~1\SDK\CSSN |  | C:\ARCHIV~1\CARDSC~1\SDK\CSSN updates SDK.pdf | 0 | 1 | 0 | updates SDK.pdf
+Shell Link: C:\Documents and Settings\All Users\Menú Inicio\Programas\Card Scanning Solutions\SDK\SDK Agreement.lnk
+Link Info: C:\Archivos de programa\Card Scanning Solutions\SDK\SDK Agreement.pdf |  | C:\ARCHIV~1\CARDSC~1\SDK\SDK Agreement.pdf | 0 | 1 | 0 | 
+Made Dir: C:\ARCHIV~1\CARDSC~1\SDK\Examples
+Made Dir: C:\ARCHIV~1\CARDSC~1\SDK\Examples\MSVC
+Made Dir: C:\ARCHIV~1\CARDSC~1\SDK\Examples\MSVC\header_lib
+File Copy: C:\Archivos de programa\Card Scanning Solutions\SDK\Examples\MSVC\header_lib\IdCard.lib | 08-05-2010 | 22:38:26 | | 17042 | b281568e
+File Copy: C:\Archivos de programa\Card Scanning Solutions\SDK\Examples\MSVC\header_lib\SOCRdll.lib | 08-05-2010 | 22:37:52 | | 3110 | 571af14e
+File Copy: C:\Archivos de programa\Card Scanning Solutions\SDK\Examples\MSVC\header_lib\BarCode.lib | 08-05-2010 | 22:38:04 | | 4774 | 7c573628
+File Copy: C:\Archivos de programa\Card Scanning Solutions\SDK\Examples\MSVC\header_lib\SLib.lib | 08-05-2010 | 22:37:48 | | 21816 | 90171e1b
+File Copy: C:\Archivos de programa\Card Scanning Solutions\SDK\Examples\MSVC\header_lib\ImageCtrl.lib | 08-05-2010 | 22:37:12 | | 9982 | 4db0ead8
+File Copy: C:\Archivos de programa\Card Scanning Solutions\SDK\Examples\MSVC\header_lib\DynamicFieldExtraction.lib | 08-05-2010 | 22:39:18 | | 5520 | 9d1b0f
+File Copy: C:\Archivos de programa\Card Scanning Solutions\SDK\Examples\MSVC\header_lib\DynamicFieldExtractionExp.h | 01-25-2010 | 09:31:12 | | 2059 | 3228ba30
+File Copy: C:\Archivos de programa\Card Scanning Solutions\SDK\Examples\MSVC\header_lib\ImageExp.h | 06-28-2010 | 09:11:52 | | 4152 | 3413d10a
+File Copy: C:\Archivos de programa\Card Scanning Solutions\SDK\Examples\MSVC\header_lib\idcardexp.h | 08-03-2010 | 09:50:20 | | 20467 | accb5b92
+File Copy: C:\Archivos de programa\Card Scanning Solutions\SDK\Examples\MSVC\header_lib\BarCodeExp.h | 06-28-2010 | 09:09:50 | | 4751 | 60b3d8d1
+File Copy: C:\Archivos de programa\Card Scanning Solutions\SDK\Examples\MSVC\header_lib\SLibExp.h | 07-23-2010 | 07:04:14 | | 7389 | 6e8e5097
+File Copy: C:\Archivos de programa\Card Scanning Solutions\SDK\Examples\MSVC\header_lib\GeneralErr.h | 06-10-2009 | 09:29:38 | | 377 | 1bc70b71
+File Copy: C:\Archivos de programa\Card Scanning Solutions\SDK\Examples\MSVC\header_lib\SlibErrDef.h | 08-06-2009 | 11:20:38 | | 2476 | 8c9169ad
+File Copy: C:\Archivos de programa\Card Scanning Solutions\SDK\Examples\MSVC\header_lib\MagReadExp.h | 05-24-2010 | 08:56:40 | | 2248 | bc0555d4
+File Copy: C:\Archivos de programa\Card Scanning Solutions\SDK\Examples\MSVC\header_lib\MagErr.h | 05-13-2008 | 16:47:00 | | 908 | 173300cb
+File Copy: C:\Archivos de programa\Card Scanning Solutions\SDK\Examples\MSVC\header_lib\PassExp.h | 12-18-2008 | 14:44:48 | | 1712 | 2f675dda
+File Copy: C:\Archivos de programa\Card Scanning Solutions\SDK\Examples\MSVC\header_lib\IdErrDef.h | 12-17-2008 | 18:59:20 | | 1752 | 32285697
+File Copy: C:\Archivos de programa\Card Scanning Solutions\SDK\Examples\MSVC\header_lib\SOcrExp.h | 06-28-2010 | 09:13:32 | | 1718 | bb459884
+File Copy: C:\Archivos de programa\Card Scanning Solutions\SDK\Examples\MSVC\header_lib\ImageErrDef.h | 05-13-2008 | 16:46:48 | | 920 | 7f6cb049
+Made Dir: C:\ARCHIV~1\CARDSC~1\SDK\Examples\MSVC\FixedScannerExample
+Made Dir: C:\ARCHIV~1\CARDSC~1\SDK\Examples\MSVC\FixedScannerExample\res
+File Copy: C:\Archivos de programa\Card Scanning Solutions\SDK\Examples\MSVC\\FixedScannerExample\FixedScannerExample.dsp | 07-29-2009 | 09:10:10 | | 5062 | fa2eaa50
+File Copy: C:\Archivos de programa\Card Scanning Solutions\SDK\Examples\MSVC\\FixedScannerExample\FixedScannerExampleDlg.cpp | 03-02-2010 | 16:02:02 | | 20583 | d1ca1ec9
+File Copy: C:\Archivos de programa\Card Scanning Solutions\SDK\Examples\MSVC\\FixedScannerExample\resource.h | 07-29-2009 | 09:10:10 | | 1847 | 9e12b0cc
+File Copy: C:\Archivos de programa\Card Scanning Solutions\SDK\Examples\MSVC\\FixedScannerExample\FixedScannerExampleDlg.h | 08-06-2009 | 11:21:32 | | 2184 | 855fba80
+File Copy: C:\Archivos de programa\Card Scanning Solutions\SDK\Examples\MSVC\\FixedScannerExample\FixedScannerExample.rc | 08-06-2009 | 11:21:32 | | 8014 | 2189754
+File Copy: C:\Archivos de programa\Card Scanning Solutions\SDK\Examples\MSVC\\FixedScannerExample\StdAfx.h | 06-10-2009 | 09:29:38 | | 1054 | aaf17870
+File Copy: C:\Archivos de programa\Card Scanning Solutions\SDK\Examples\MSVC\\FixedScannerExample\StdAfx.cpp | 06-10-2009 | 09:29:38 | | 221 | 9e223d4b
+File Copy: C:\Archivos de programa\Card Scanning Solutions\SDK\Examples\MSVC\\FixedScannerExample\FixedScannerExample.h | 06-10-2009 | 09:29:38 | | 1467 | 480bd970
+File Copy: C:\Archivos de programa\Card Scanning Solutions\SDK\Examples\MSVC\\FixedScannerExample\FixedScannerExample.dsw | 07-29-2009 | 09:10:10 | | 751 | 92fdf799
+File Copy: C:\Archivos de programa\Card Scanning Solutions\SDK\Examples\MSVC\\FixedScannerExample\FixedScannerExample.cpp | 06-10-2009 | 09:29:38 | | 2245 | 6794d9e1
+File Copy: C:\Archivos de programa\Card Scanning Solutions\SDK\Examples\MSVC\\FixedScannerExample\res\FixedScannerExample.rc2 | 06-10-2009 | 09:29:38 | | 411 | adb5c60a
+File Copy: C:\Archivos de programa\Card Scanning Solutions\SDK\Examples\MSVC\\FixedScannerExample\res\FixedScannerExample.ico | 06-10-2009 | 09:29:38 | | 1078 | 120de4e4
+File Copy: C:\Archivos de programa\Card Scanning Solutions\SDK\FixedScannerExample.exe | 03-02-2010 | 16:02:14 | 1.0.0.1 | 36864 | ebc889c6
+Made Dir: C:\ARCHIV~1\CARDSC~1\SDK\Examples\MSVC\DriverLicenseExample1
+Made Dir: C:\ARCHIV~1\CARDSC~1\SDK\Examples\MSVC\DriverLicenseExample1\res
+File Copy: C:\Archivos de programa\Card Scanning Solutions\SDK\Examples\MSVC\\DriverLicenseExample1\VC demo.dsp | 06-10-2009 | 09:29:38 | | 6111 | acbc2df1
+File Copy: C:\Archivos de programa\Card Scanning Solutions\SDK\Examples\MSVC\\DriverLicenseExample1\VC demo.cpp | 06-10-2009 | 09:29:38 | | 6052 | a4ddb384
+File Copy: C:\Archivos de programa\Card Scanning Solutions\SDK\Examples\MSVC\\DriverLicenseExample1\VC demoDlg.cpp | 06-10-2009 | 09:29:38 | | 4321 | 2c748d8c
+File Copy: C:\Archivos de programa\Card Scanning Solutions\SDK\Examples\MSVC\\DriverLicenseExample1\VC demo.h | 06-10-2009 | 09:29:38 | | 1354 | 9adaf480
+File Copy: C:\Archivos de programa\Card Scanning Solutions\SDK\Examples\MSVC\\DriverLicenseExample1\VC demo.dsw | 06-10-2009 | 09:29:38 | | 539 | aa779ea8
+File Copy: C:\Archivos de programa\Card Scanning Solutions\SDK\Examples\MSVC\\DriverLicenseExample1\VC demo.rc | 06-10-2009 | 09:29:38 | | 18240 | 9d99bec
+File Copy: C:\Archivos de programa\Card Scanning Solutions\SDK\Examples\MSVC\\DriverLicenseExample1\StdAfx.h | 06-10-2009 | 09:29:38 | | 1054 | 3b5655dc
+File Copy: C:\Archivos de programa\Card Scanning Solutions\SDK\Examples\MSVC\\DriverLicenseExample1\StdAfx.cpp | 06-10-2009 | 09:29:38 | | 209 | 793c01e9
+File Copy: C:\Archivos de programa\Card Scanning Solutions\SDK\Examples\MSVC\\DriverLicenseExample1\resource.h | 06-10-2009 | 09:29:38 | | 3583 | bb0dd81e
+File Copy: C:\Archivos de programa\Card Scanning Solutions\SDK\Examples\MSVC\\DriverLicenseExample1\ReadMe.txt | 06-10-2009 | 09:29:38 | | 3594 | 19f502eb
+File Copy: C:\Archivos de programa\Card Scanning Solutions\SDK\Examples\MSVC\\DriverLicenseExample1\RawOcrPage.h | 06-10-2009 | 09:29:38 | | 1671 | c40a9311
+File Copy: C:\Archivos de programa\Card Scanning Solutions\SDK\Examples\MSVC\\DriverLicenseExample1\RawOcrPage.cpp | 06-10-2009 | 09:29:38 | | 4257 | c63f6bac
+File Copy: C:\Archivos de programa\Card Scanning Solutions\SDK\Examples\MSVC\\DriverLicenseExample1\rawbarcodepage.h | 06-10-2009 | 09:29:38 | | 1720 | ba5a927c
+File Copy: C:\Archivos de programa\Card Scanning Solutions\SDK\Examples\MSVC\\DriverLicenseExample1\RawBarcodePage.cpp | 06-10-2009 | 09:29:38 | | 4767 | 9f584cec
+File Copy: C:\Archivos de programa\Card Scanning Solutions\SDK\Examples\MSVC\\DriverLicenseExample1\passport.h | 06-10-2009 | 09:29:38 | | 1838 | 9c35c421
+File Copy: C:\Archivos de programa\Card Scanning Solutions\SDK\Examples\MSVC\\DriverLicenseExample1\passport.cpp | 06-10-2009 | 09:29:38 | | 6570 | 2ffbbedc
+File Copy: C:\Archivos de programa\Card Scanning Solutions\SDK\Examples\MSVC\\DriverLicenseExample1\mainsheet.h | 06-10-2009 | 09:29:38 | | 1589 | 45b24b1a
+File Copy: C:\Archivos de programa\Card Scanning Solutions\SDK\Examples\MSVC\\DriverLicenseExample1\MainSheet.cpp | 06-10-2009 | 09:29:38 | | 1126 | 64b6d6e9
+File Copy: C:\Archivos de programa\Card Scanning Solutions\SDK\Examples\MSVC\\DriverLicenseExample1\idpage.h | 06-10-2009 | 09:29:38 | | 2164 | 50c89ce1
+File Copy: C:\Archivos de programa\Card Scanning Solutions\SDK\Examples\MSVC\\DriverLicenseExample1\IdPage.cpp | 06-10-2009 | 09:29:38 | | 17223 | 6eeb9610
+File Copy: C:\Archivos de programa\Card Scanning Solutions\SDK\Examples\MSVC\\DriverLicenseExample1\ComonFunc.h | 06-10-2009 | 09:29:38 | | 820 | a9119232
+File Copy: C:\Archivos de programa\Card Scanning Solutions\SDK\Examples\MSVC\\DriverLicenseExample1\ComonFunc.cpp | 06-10-2009 | 09:29:38 | | 8530 | 8ea3f76d
+File Copy: C:\Archivos de programa\Card Scanning Solutions\SDK\Examples\MSVC\\DriverLicenseExample1\barcodepage.h | 06-10-2009 | 09:29:38 | | 1939 | 6931759a
+File Copy: C:\Archivos de programa\Card Scanning Solutions\SDK\Examples\MSVC\\DriverLicenseExample1\BarCodePage.cpp | 06-10-2009 | 09:29:38 | | 5926 | 704333ed
+File Copy: C:\Archivos de programa\Card Scanning Solutions\SDK\Examples\MSVC\\DriverLicenseExample1\res\VC demo.rc2 | 06-10-2009 | 09:29:38 | | 399 | c7d77190
+File Copy: C:\Archivos de programa\Card Scanning Solutions\SDK\Examples\MSVC\\DriverLicenseExample1\res\VC demo.ico | 06-10-2009 | 09:29:38 | | 1078 | 120de4e4
+Made Dir: C:\ARCHIV~1\CARDSC~1\SDK\Examples\DotNet
+Made Dir: C:\ARCHIV~1\CARDSC~1\SDK\Examples\DotNet\VB.Net Samples
+Made Dir: C:\ARCHIV~1\CARDSC~1\SDK\Examples\DotNet\VB.Net Samples\SDK Sample
+Made Dir: C:\ARCHIV~1\CARDSC~1\SDK\Examples\DotNet\VB.Net Samples\SDK Sample\Bin
+File Copy: C:\Archivos de programa\Card Scanning Solutions\SDK\Examples\DotNet\VB.Net Samples\SDK Sample.sln | 02-06-2007 | 12:49:52 | | 916 | 43adfc7b
+File Copy: C:\Archivos de programa\Card Scanning Solutions\SDK\Examples\DotNet\VB.Net Samples\SDK Sample\AssemblyInfo.vb | 04-01-2009 | 11:29:02 | | 1201 | 769d395d
+File Copy: C:\Archivos de programa\Card Scanning Solutions\SDK\Examples\DotNet\VB.Net Samples\SDK Sample\FormMain.resx | 06-29-2010 | 08:43:06 | | 250268 | 4a6347d8
+File Copy: C:\Archivos de programa\Card Scanning Solutions\SDK\Examples\DotNet\VB.Net Samples\SDK Sample\FormMain.vb | 06-29-2010 | 09:06:28 | | 334032 | fd4c9e6a
+File Copy: C:\Archivos de programa\Card Scanning Solutions\SDK\Examples\DotNet\VB.Net Samples\SDK Sample\mdlBarCodeConsts.vb | 02-06-2007 | 15:23:36 | | 3925 | 71f81b02
+File Copy: C:\Archivos de programa\Card Scanning Solutions\SDK\Examples\DotNet\VB.Net Samples\SDK Sample\mdlidLibConsts.vb | 11-23-2009 | 12:07:00 | | 14239 | c48c67e7
+File Copy: C:\Archivos de programa\Card Scanning Solutions\SDK\Examples\DotNet\VB.Net Samples\SDK Sample\mdlImageConsts.vb | 08-05-2008 | 22:08:14 | | 1963 | 12e97160
+File Copy: C:\Archivos de programa\Card Scanning Solutions\SDK\Examples\DotNet\VB.Net Samples\SDK Sample\mdlLibraries.vb | 05-29-2008 | 10:31:14 | | 723 | f67630fe
+File Copy: C:\Archivos de programa\Card Scanning Solutions\SDK\Examples\DotNet\VB.Net Samples\SDK Sample\mdlLicense.vb | 06-29-2010 | 08:43:06 | | 3544 | 7159bde1
+File Copy: C:\Archivos de programa\Card Scanning Solutions\SDK\Examples\DotNet\VB.Net Samples\SDK Sample\mdlMagLibConsts.vb | 02-06-2007 | 15:23:36 | | 952 | a8381aa7
+File Copy: C:\Archivos de programa\Card Scanning Solutions\SDK\Examples\DotNet\VB.Net Samples\SDK Sample\mdlOcrConsts.vb | 02-06-2007 | 15:23:36 | | 415 | 2788489a
+File Copy: C:\Archivos de programa\Card Scanning Solutions\SDK\Examples\DotNet\VB.Net Samples\SDK Sample\mdlPassportConsts.vb | 11-19-2009 | 13:03:06 | | 1641 | a41193e1
+File Copy: C:\Archivos de programa\Card Scanning Solutions\SDK\Examples\DotNet\VB.Net Samples\SDK Sample\mdlSlibConsts.vb | 01-07-2010 | 09:50:52 | | 3708 | 56a2145e
+File Copy: C:\Archivos de programa\Card Scanning Solutions\SDK\Examples\DotNet\VB.Net Samples\SDK Sample\ScanShell.ico | 02-13-2007 | 11:49:40 | | 2550 | a85ababe
+File Copy: C:\Archivos de programa\Card Scanning Solutions\SDK\Examples\DotNet\VB.Net Samples\SDK Sample\SDK Sample.vbproj | 03-23-2009 | 10:03:38 | | 6437 | fc23bc5c
+File Copy: C:\Archivos de programa\Card Scanning Solutions\SDK\Examples\DotNet\VB.Net Samples\SDK Sample\SDK Sample.vbproj.user | 06-29-2010 | 10:53:06 | | 1865 | d66b5b0
+File Copy: C:\Archivos de programa\Card Scanning Solutions\SDK\Examples\DotNet\VB.Net Samples\SDK Sample\Bin\SDK Sample with file support.exe | 06-29-2010 | 08:41:54 | 2.0.3.0 | 462848 | 7a140fbe
+File Copy: C:\Archivos de programa\Card Scanning Solutions\SDK\Examples\DotNet\VB.Net Samples\SDK Sample\Bin\SDK Sample.exe | 06-29-2010 | 09:09:20 | 2.0.3.0 | 462848 | e6a4a2a6
+File Copy: C:\Archivos de programa\Card Scanning Solutions\SDK\Examples\DotNet\VB.Net Samples\SDK Sample\Bin\Tips.txt | 02-01-2007 | 19:56:02 | | 719 | 4cc3f555
+File Copy: C:\Archivos de programa\Card Scanning Solutions\SDK\Examples\DotNet\VB.Net Samples\SDK Sample\Bin\\NetScanW.dll | 02-19-2009 | 16:03:38 | 1.0.0.6 | 32768 | b02bf2d3
+File Copy: C:\Archivos de programa\Card Scanning Solutions\SDK\Examples\DotNet\VB.Net Samples\SDK Sample\Bin\\NetScanWex.dll | 07-23-2010 | 08:04:48 | 1.1.0.8 | 23040 | ba548a93
+Made Dir: C:\ARCHIV~1\CARDSC~1\SDK\Examples\C# demo- MED+DL
+Made Dir: C:\ARCHIV~1\CARDSC~1\SDK\Examples\C# demo- MED+DL\SDKSampleCSharp
+File Copy: C:\Archivos de programa\Card Scanning Solutions\SDK\Examples\C# demo- MED+DL\SDKSampleCSharp.suo | 06-10-2009 | 09:29:38 | | 33792 | 236ca477
+File Copy: C:\Archivos de programa\Card Scanning Solutions\SDK\Examples\C# demo- MED+DL\SDKSampleCSharp.sln | 06-10-2009 | 09:29:38 | | 929 | 11e0d416
+File Copy: C:\Archivos de programa\Card Scanning Solutions\SDK\Examples\C# demo- MED+DL\SDKSampleCSharp\CFormMain.cs | 08-10-2009 | 08:03:48 | | 24201 | 65c4a746
+File Copy: C:\Archivos de programa\Card Scanning Solutions\SDK\Examples\C# demo- MED+DL\SDKSampleCSharp\CFormMain.resx | 06-10-2009 | 09:29:38 | | 5814 | ba983fa2
+File Copy: C:\Archivos de programa\Card Scanning Solutions\SDK\Examples\C# demo- MED+DL\SDKSampleCSharp\SDKSampleCSharp.csproj | 06-10-2009 | 09:29:38 | | 5960 | a40b96bb
+File Copy: C:\Archivos de programa\Card Scanning Solutions\SDK\Examples\C# demo- MED+DL\SDKSampleCSharp\Medic.resx | 06-10-2009 | 09:29:38 | | 6278 | 4b92706c
+File Copy: C:\Archivos de programa\Card Scanning Solutions\SDK\Examples\C# demo- MED+DL\SDKSampleCSharp\Medic.Designer.cs | 06-10-2009 | 09:29:38 | | 5025 | bd01eff2
+File Copy: C:\Archivos de programa\Card Scanning Solutions\SDK\Examples\C# demo- MED+DL\SDKSampleCSharp\Medic.cs | 06-10-2009 | 09:29:38 | | 632 | 4e1d06f
+File Copy: C:\Archivos de programa\Card Scanning Solutions\SDK\Examples\C# demo- MED+DL\SDKSampleCSharp\Class1.cs | 06-10-2009 | 09:29:38 | | 314 | dfb614e8
+File Copy: C:\Archivos de programa\Card Scanning Solutions\SDK\Examples\C# demo- MED+DL\SDKSampleCSharp\AssemblyInfo.cs | 06-10-2009 | 09:29:38 | | 2426 | 5da85543
+File Copy: C:\Archivos de programa\Card Scanning Solutions\SDK\Examples\C# demo- MED+DL\SDKSampleCSharp\App.ico | 06-10-2009 | 09:29:38 | | 1078 | 9eca8a4e
+File Copy: C:\Archivos de programa\Card Scanning Solutions\SDK\Examples\MSVC\header_lib\BizLib.lib | 08-05-2010 | 22:38:46 | | 3662 | 5fb7098b
+File Copy: C:\Archivos de programa\Card Scanning Solutions\SDK\Examples\MSVC\header_lib\BizLib.h | 03-03-2010 | 13:21:00 | | 2096 | 829e7ad5
+Made Dir: C:\ARCHIV~1\CARDSC~1\SDK\Examples\MSVC\BizCardExample1
+Made Dir: C:\ARCHIV~1\CARDSC~1\SDK\Examples\MSVC\BizCardExample1\res
+File Copy: C:\Archivos de programa\Card Scanning Solutions\SDK\Examples\MSVC\\BizCardExample1\\example1.cpp | 06-10-2009 | 09:29:38 | | 2091 | d6cf4304
+File Copy: C:\Archivos de programa\Card Scanning Solutions\SDK\Examples\MSVC\\BizCardExample1\\example1.dsp | 06-10-2009 | 09:29:38 | | 4556 | e1f80794
+File Copy: C:\Archivos de programa\Card Scanning Solutions\SDK\Examples\MSVC\\BizCardExample1\\example1.dsw | 06-10-2009 | 09:29:38 | | 817 | 3fc05aba
+File Copy: C:\Archivos de programa\Card Scanning Solutions\SDK\Examples\MSVC\\BizCardExample1\\example1.h | 06-10-2009 | 09:29:38 | | 1346 | 52400edd
+File Copy: C:\Archivos de programa\Card Scanning Solutions\SDK\Examples\MSVC\\BizCardExample1\\example1.rc | 06-10-2009 | 09:29:38 | | 5814 | e5ba296d
+File Copy: C:\Archivos de programa\Card Scanning Solutions\SDK\Examples\MSVC\\BizCardExample1\\example1Dlg.cpp | 06-10-2009 | 09:29:38 | | 12100 | faf59ae6
+File Copy: C:\Archivos de programa\Card Scanning Solutions\SDK\Examples\MSVC\\BizCardExample1\\example1Dlg.h | 06-10-2009 | 09:29:38 | | 1548 | e9df3625
+File Copy: C:\Archivos de programa\Card Scanning Solutions\SDK\Examples\MSVC\\BizCardExample1\\MSSCCPRJ.SCC | 06-30-2010 | 13:09:28 | | 791 | daeed2ee
+File Copy: C:\Archivos de programa\Card Scanning Solutions\SDK\Examples\MSVC\\BizCardExample1\\ReadMe.txt | 06-10-2009 | 09:29:38 | | 3615 | d369cde6
+File Copy: C:\Archivos de programa\Card Scanning Solutions\SDK\Examples\MSVC\\BizCardExample1\\Resource.h | 06-10-2009 | 09:29:38 | | 962 | 84bdbb1d
+File Copy: C:\Archivos de programa\Card Scanning Solutions\SDK\Examples\MSVC\\BizCardExample1\\StdAfx.cpp | 06-10-2009 | 09:29:38 | | 210 | ee323a04
+File Copy: C:\Archivos de programa\Card Scanning Solutions\SDK\Examples\MSVC\\BizCardExample1\\StdAfx.h | 06-10-2009 | 09:29:38 | | 1054 | f12771f1
+File Copy: C:\Archivos de programa\Card Scanning Solutions\SDK\Examples\MSVC\\BizCardExample1\res\example1.ico | 06-10-2009 | 09:29:38 | | 1078 | 120de4e4
+File Copy: C:\Archivos de programa\Card Scanning Solutions\SDK\Examples\MSVC\\BizCardExample1\res\example1.rc2 | 06-10-2009 | 09:29:38 | | 400 | 398e5fa9
+File Copy: C:\Archivos de programa\Card Scanning Solutions\SDK\Examples\MSVC\\BizCardExample1\res\MSSCCPRJ.SCC | 06-30-2010 | 13:09:28 | | 791 | daeed2ee
+File Copy: C:\Archivos de programa\Card Scanning Solutions\SDK\BizExample1.exe | 06-11-2009 | 21:00:44 | 1.0.0.1 | 24576 | e584fe5c
+Made Dir: C:\ARCHIV~1\CARDSC~1\SDK\Examples\BizId_VB_demo
+File Copy: C:\Archivos de programa\Card Scanning Solutions\SDK\Examples\BizId_VB_demo\BizDemo.vbp | 06-10-2009 | 09:29:38 | | 1196 | ace75e25
+File Copy: C:\Archivos de programa\Card Scanning Solutions\SDK\Examples\BizId_VB_demo\BizDemo.vbw | 06-10-2009 | 09:29:38 | | 294 | 2306d7a8
+File Copy: C:\Archivos de programa\Card Scanning Solutions\SDK\Examples\BizId_VB_demo\Form1.frm | 06-10-2009 | 09:29:38 | | 44578 | c3c0885f
+File Copy: C:\Archivos de programa\Card Scanning Solutions\SDK\Examples\BizId_VB_demo\Form1.frx | 06-10-2009 | 09:29:38 | | 56 | 695a5dae
+File Copy: C:\Archivos de programa\Card Scanning Solutions\SDK\Examples\BizId_VB_demo\frmOcr.frm | 06-10-2009 | 09:29:38 | | 1485 | 667873fc
+File Copy: C:\Archivos de programa\Card Scanning Solutions\SDK\Examples\BizId_VB_demo\IdLibDef.bas | 06-10-2009 | 09:29:38 | | 4382 | 6f6ba31b
+File Copy: C:\Archivos de programa\Card Scanning Solutions\SDK\Examples\BizId_VB_demo\ImageDef.bas | 06-10-2009 | 09:29:38 | | 1262 | 48676998
+File Copy: C:\Archivos de programa\Card Scanning Solutions\SDK\Examples\BizId_VB_demo\Libraries.bas | 06-10-2009 | 09:29:38 | | 1273 | fdd8aa42
+File Copy: C:\Archivos de programa\Card Scanning Solutions\SDK\Examples\BizId_VB_demo\mdlLicense.bas | 06-10-2009 | 09:29:38 | | 2824 | 3e9dd468
+File Copy: C:\Archivos de programa\Card Scanning Solutions\SDK\Examples\BizId_VB_demo\modVar.bas | 06-10-2009 | 09:29:38 | | 641 | cfd683d9
+File Copy: C:\Archivos de programa\Card Scanning Solutions\SDK\Examples\BizId_VB_demo\MSSCCPRJ.SCC | 06-30-2010 | 13:09:28 | | 183 | 52bbf5ee
+File Copy: C:\Archivos de programa\Card Scanning Solutions\SDK\Examples\BizId_VB_demo\OcrDef.bas | 06-10-2009 | 09:29:38 | | 367 | 3aeef191
+File Copy: C:\Archivos de programa\Card Scanning Solutions\SDK\Examples\BizId_VB_demo\SlibDef.bas | 06-10-2009 | 09:29:38 | | 1571 | 3e74d640
+Made Dir: C:\ARCHIV~1\CARDSC~1\SDK\Examples\MSVC\CheckExample1
+Made Dir: C:\ARCHIV~1\CARDSC~1\SDK\Examples\MSVC\CheckExample1\res
+File Copy: C:\Archivos de programa\Card Scanning Solutions\SDK\Examples\MSVC\header_lib\CheckLib.lib | 08-05-2010 | 22:37:56 | | 3000 | 731f78fa
+File Copy: C:\Archivos de programa\Card Scanning Solutions\SDK\Examples\MSVC\header_lib\ChequeExp.h | 05-13-2008 | 16:46:38 | | 1370 | a7e95546
+File Copy: C:\Archivos de programa\Card Scanning Solutions\SDK\Examples\MSVC\\CheckExample1\Example1.cpp | 06-10-2009 | 09:29:38 | | 2091 | 78acf7e9
+File Copy: C:\Archivos de programa\Card Scanning Solutions\SDK\Examples\MSVC\\CheckExample1\Example1.dsp | 06-10-2009 | 09:29:38 | | 4677 | af8c890
+File Copy: C:\Archivos de programa\Card Scanning Solutions\SDK\Examples\MSVC\\CheckExample1\Example1.dsw | 06-10-2009 | 09:29:38 | | 811 | 49565afa
+File Copy: C:\Archivos de programa\Card Scanning Solutions\SDK\Examples\MSVC\\CheckExample1\Example1.h | 06-10-2009 | 09:29:38 | | 1346 | a7423d7c
+File Copy: C:\Archivos de programa\Card Scanning Solutions\SDK\Examples\MSVC\\CheckExample1\Example1.plg | 06-10-2009 | 09:29:38 | | 829 | 94b0ad7e
+File Copy: C:\Archivos de programa\Card Scanning Solutions\SDK\Examples\MSVC\\CheckExample1\Example1.rc | 06-10-2009 | 09:29:38 | | 6325 | d9f50430
+File Copy: C:\Archivos de programa\Card Scanning Solutions\SDK\Examples\MSVC\\CheckExample1\Example1Dlg.cpp | 06-10-2009 | 09:29:38 | | 10758 | 8304a4f6
+File Copy: C:\Archivos de programa\Card Scanning Solutions\SDK\Examples\MSVC\\CheckExample1\Example1Dlg.h | 06-10-2009 | 09:29:38 | | 1628 | 60e959b9
+File Copy: C:\Archivos de programa\Card Scanning Solutions\SDK\Examples\MSVC\\CheckExample1\MSSCCPRJ.SCC | 06-30-2010 | 13:09:28 | | 789 | e23ba056
+File Copy: C:\Archivos de programa\Card Scanning Solutions\SDK\Examples\MSVC\\CheckExample1\ReadMe.txt | 06-10-2009 | 09:29:38 | | 3615 | 498f4902
+File Copy: C:\Archivos de programa\Card Scanning Solutions\SDK\Examples\MSVC\\CheckExample1\Resource.h | 06-10-2009 | 09:29:38 | | 1100 | a35144b6
+File Copy: C:\Archivos de programa\Card Scanning Solutions\SDK\Examples\MSVC\\CheckExample1\StdAfx.cpp | 06-10-2009 | 09:29:38 | | 210 | 9f065e9b
+File Copy: C:\Archivos de programa\Card Scanning Solutions\SDK\Examples\MSVC\\CheckExample1\StdAfx.h | 06-10-2009 | 09:29:38 | | 1054 | dd78ae50
+File Copy: C:\Archivos de programa\Card Scanning Solutions\SDK\Examples\MSVC\\CheckExample1\res\Example1.ico | 06-10-2009 | 09:29:38 | | 1078 | 120de4e4
+File Copy: C:\Archivos de programa\Card Scanning Solutions\SDK\Examples\MSVC\\CheckExample1\res\Example1.rc2 | 06-10-2009 | 09:29:38 | | 400 | 398e5fa9
+File Copy: C:\Archivos de programa\Card Scanning Solutions\SDK\Examples\MSVC\\CheckExample1\res\MSSCCPRJ.SCC | 06-30-2010 | 13:09:28 | | 789 | e23ba056
+File Copy: C:\Archivos de programa\Card Scanning Solutions\SDK\CheckExample1.exe | 06-11-2009 | 21:00:44 | 1.0.0.1 | 24576 | f51a73e8
+Made Dir: C:\ARCHIV~1\CARDSC~1\SDK\Examples\CheckVBexample
+File Copy: C:\Archivos de programa\Card Scanning Solutions\SDK\Examples\CheckVBexample\Cheque.bas | 06-10-2009 | 09:29:38 | | 2577 | 68395238
+File Copy: C:\Archivos de programa\Card Scanning Solutions\SDK\Examples\CheckVBexample\ChequeComVbDemo.vbp | 06-10-2009 | 09:29:38 | | 1232 | 5c4feaa0
+File Copy: C:\Archivos de programa\Card Scanning Solutions\SDK\Examples\CheckVBexample\ChequeComVbDemo.vbw | 06-10-2009 | 09:29:38 | | 193 | 5dc53ff3
+File Copy: C:\Archivos de programa\Card Scanning Solutions\SDK\Examples\CheckVBexample\DynamicFieldsDef.bas | 06-10-2009 | 09:29:38 | | 267 | f9f3cc25
+File Copy: C:\Archivos de programa\Card Scanning Solutions\SDK\Examples\CheckVBexample\frmMain.frm | 06-10-2009 | 09:29:38 | | 23041 | 52d4757b
+File Copy: C:\Archivos de programa\Card Scanning Solutions\SDK\Examples\CheckVBexample\frmMain.frx | 06-10-2009 | 09:29:38 | | 28 | c3ff05cb
+File Copy: C:\Archivos de programa\Card Scanning Solutions\SDK\Examples\CheckVBexample\LIBRARIES.bas | 06-10-2009 | 09:29:38 | | 261 | cf506f8a
+File Copy: C:\Archivos de programa\Card Scanning Solutions\SDK\Examples\CheckVBexample\License.bas | 06-10-2009 | 09:29:38 | | 626 | 79d22aa6
+File Copy: C:\Archivos de programa\Card Scanning Solutions\SDK\Examples\CheckVBexample\MSSCCPRJ.SCC | 06-30-2010 | 13:09:28 | | 645 | 1ec2fd1c
+Delete old SDK files from: C:\DOCUME~1\ADMINI~1\CONFIG~1\Temp
+Delete old SDK files from: C:\WINDOWS\system32
+Delete old SDK files from: C:\WINDOWS\system32
+Delete old SDK files from: C:\WINDOWS
+Delete old SDK files from: C:\WINDOWS
+Self-Register: C:\WINDOWS\system32\mfc42.dll
+Self-Register: C:\WINDOWS\system32\msvbvm50.dll
+Self-Register: C:\WINDOWS\system32\msvbvm60.dll
+Self-Register: C:\Archivos de programa\Card Scanning Solutions\SDK\HTTPWizard3.ocx
+Self-Register: C:\Archivos de programa\Card Scanning Solutions\SDK\Msflxgrd.ocx
+Self-Register: C:\Archivos de programa\Card Scanning Solutions\SDK\Mscomctl.ocx
+Self-Register: C:\Archivos de programa\Card Scanning Solutions\SDK\CSSNUpdates.ocx
+Delete in-use files: On
+File Copy: C:\Archivos de programa\Card Scanning Solutions\SDK\config.ini | 06-21-2010 | 09:07:10 | | 10 | d8d6b6ec
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\CSSN SDK Version 9.41.16
+RegDB Val: www.card-reader.com
+RegDB Name: HelpLink
+RegDB Root: 2
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\CSSN SDK Version 9.41.16
+RegDB Val: Card Scanning Solutions
+RegDB Name: Publisher
+RegDB Root: 2
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\CSSN SDK Version 9.41.16
+RegDB Val: www.card-reader.com
+RegDB Name: URLInfoAbout
+RegDB Root: 2
+Delete old SDK files from: C:\DOCUME~1\ADMINI~1\CONFIG~1\Temp
+Delete old SDK files from: C:\WINDOWS\system32
+Delete old SDK files from: C:\WINDOWS\system32
+Delete old SDK files from: C:\WINDOWS
+Delete old SDK files from: C:\WINDOWS
+User Rights: Admin
+***  Installation Started 12/02/2010 15:24  ***
+Title: CSSN SDK Version 9.42.0 Installation
+Source: C:\Documents and Settings\Administrador\Configuración local\Archivos temporales de Internet\Content.IE5\OMY2BR6J\sdk_setup[1].exe | 12-02-2010 | 15:24:52 | 73907725
+File Overwrite: C:\Documents and Settings\Administrador\Configuración local\Temp\SDK Agreement.txt | 03-11-2009 | 08:44:00 | | 7649 | 2c78b705
+Delete old SDK files from: C:\DOCUME~1\ADMINI~1\CONFIG~1\Temp
+Delete old SDK files from: C:\WINDOWS\system32
+Delete old SDK files from: C:\WINDOWS\system32
+Delete old SDK files from: C:\WINDOWS
+Delete old SDK files from: C:\WINDOWS
+File Copy: C:\WINDOWS\system32\SlibEx.dll | 11-03-2010 | 14:12:50 | 4.4.0.0 | 12820480 | 7635ac55
+File Copy: C:\WINDOWS\system32\SLib.dll | 11-03-2010 | 14:13:36 | 9.5.0.10 | 1306624 | 79646734
+File Copy: C:\WINDOWS\system32\CImage.dll | 11-03-2010 | 14:02:00 | 1.0.3.4 | 282624 | 3e698391
+File Copy: C:\WINDOWS\system32\ImageCtrl.dll | 11-03-2010 | 14:12:38 | 7.9.6.0 | 86016 | ad22495c
+File Copy: C:\WINDOWS\system32\OCR_PreProc.dll | 11-04-2010 | 11:17:38 | 22.42.0.0 | 1454080 | dab453b6
+File Copy: C:\WINDOWS\system32\CS4K.dll | 11-03-2010 | 14:15:56 | 8.8.0.5 | 32768 | 7b034a50
+File Copy: C:\WINDOWS\system32\TwainScan.exe | 11-03-2010 | 14:16:00 | 8.3.0.2 | 745472 | bbcd9ef7
+File Overwrite: C:\WINDOWS\system32\DynamicTwainCtrl.dll | 07-23-2010 | 07:40:32 | 4.1.0.0 | 294912 | b3af369e
+File Copy: C:\WINDOWS\system32\SoapAct.dll | 11-03-2010 | 14:12:28 | 2.0.0.1 | 106496 | e7c2933c
+Delete old SDK files from: C:\DOCUME~1\ADMINI~1\CONFIG~1\Temp
+Delete old SDK files from: C:\WINDOWS\system32
+Delete old SDK files from: C:\WINDOWS\system32
+Delete old SDK files from: C:\WINDOWS
+Delete old SDK files from: C:\WINDOWS
+Installation Aborted!
+User Rights: Admin
+***  Installation Started 12/02/2010 17:17  ***
+Title: CSSN SDK Version 9.41.16 Installation
+Source: C:\Documents and Settings\Administrador\Escritorio\Escaner_CSSN\sdk_setup.exe | 11-02-2010 | 14:54:16 | 77967616
+File Overwrite: C:\Documents and Settings\Administrador\Configuración local\Temp\SDK Agreement.txt | 03-11-2009 | 09:44:00 | | 7649 | 2c78b705
+Delete old SDK files from: C:\DOCUME~1\ADMINI~1\CONFIG~1\Temp
+Delete old SDK files from: C:\WINDOWS\system32
+Delete old SDK files from: C:\WINDOWS\system32
+Delete old SDK files from: C:\WINDOWS
+Delete old SDK files from: C:\WINDOWS
+File Copy: C:\WINDOWS\system32\SlibEx.dll | 08-05-2010 | 22:37:24 | 4.4.0.0 | 11972608 | 6aa9f75b
+File Copy: C:\WINDOWS\system32\SLib.dll | 08-05-2010 | 22:37:48 | 9.3.9.22 | 1294336 | ba11912
+File Copy: C:\WINDOWS\system32\CImage.dll | 08-05-2010 | 08:56:22 | 1.0.3.0 | 282624 | 875528a0
+File Copy: C:\WINDOWS\system32\ImageCtrl.dll | 08-05-2010 | 22:37:12 | 7.9.5.13 | 81920 | 80f0e62c
+File Copy: C:\WINDOWS\system32\OCR_PreProc.dll | 08-05-2010 | 08:57:12 | 22.41.1.11 | 1388544 | 257cdcc1
+File Copy: C:\WINDOWS\system32\CS4K.dll | 08-05-2010 | 22:39:08 | 8.8.0.5 | 32768 | 3a727de1
+File Copy: C:\WINDOWS\system32\TwainScan.exe | 08-05-2010 | 22:39:12 | 8.3.0.0 | 741376 | c83052b8
+File Overwrite: C:\WINDOWS\system32\DynamicTwainCtrl.dll | 07-23-2010 | 08:40:32 | 4.1.0.0 | 294912 | b3af369e
+File Copy: C:\WINDOWS\system32\SoapAct.dll | 08-05-2010 | 22:37:04 | 2.0.0.1 | 106496 | 85f5c165
+Delete old SDK files from: C:\DOCUME~1\ADMINI~1\CONFIG~1\Temp
+Delete old SDK files from: C:\WINDOWS\system32
+Delete old SDK files from: C:\WINDOWS\system32
+Delete old SDK files from: C:\WINDOWS
+Delete old SDK files from: C:\WINDOWS
+Installation Aborted!
+User Rights: Admin

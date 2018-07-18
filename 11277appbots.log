@@ -1,0 +1,283 @@
+str@strailsas.com 27.7.2017 11:15:42 cifxConfig.bleerArchCargaPrtros: Cargando archivo configuracion: appbots.conf
+str@strailsas.com 27.7.2017 11:15:42 ______________________________________________________________________________
+str@strailsas.com 27.7.2017 11:15:42 AppBots.main(): INICIANDO appBots en el Puerto: 3101
+str@strailsas.com 27.7.2017 11:15:42 ______________________________________________________________________________
+str@strailsas.com 27.7.2017 11:15:42 AppBots.Rangos: --------------------------------------------------------------
+str@strailsas.com 27.7.2017 11:15:42 AppBots.Rangos: INICIO HUELLAS: 52501
+str@strailsas.com 27.7.2017 11:15:42 AppBots.Rangos: FINAL HUELLAS: 105000
+str@strailsas.com 27.7.2017 11:15:42 AppBots.Rangos: --------------------------------------------------------------
+str@strailsas.com 27.7.2017 11:15:42 AppBots.Rangos: INICIO ROSTROS: 301
+str@strailsas.com 27.7.2017 11:15:42 AppBots.Rangos: FINAL ROSTROS: 600
+str@strailsas.com 27.7.2017 11:15:42 AppBots.Rangos: --------------------------------------------------------------
+str@strailsas.com 27.7.2017 11:15:42 ______________________________________________________________________________
+str@strailsas.com 27.7.2017 11:15:42 AppBots.Licenciamiento: Cargando Licencias de <ROSTRO>: 3101
+str@strailsas.com 27.7.2017 11:15:42 saOspeedMatch.reiniciaLicencias(): Reiniciando Licencias
+str@strailsas.com 27.7.2017 11:15:42 saOspeedMatch.borrarLicencia(): Borrando Licencias (FacesMatcher) 
+str@strailsas.com 27.7.2017 11:15:43 saOspeedMatch.cargarLicencia(): Cargando Licencia (FacesMatcher) 
+str@strailsas.com 27.7.2017 11:15:43 saOspeedMatch.cargarLicencia(): (FacesMatcher) licencias OK (SingleComputerLicense:VLMatcher)
+str@strailsas.com 27.7.2017 11:15:43 cifxConfig.bleerArchCargaPrtros: Cargando archivo configuracion: appbots.conf
+str@strailsas.com 27.7.2017 11:15:43 TURBO ACTIVADO!!!!
+str@strailsas.com 27.7.2017 11:15:43 saSpeedMatch.saSpeedMatch(): NUM REGISTROS POR HILO(ROSTRO): 100
+str@strailsas.com 27.7.2017 11:15:43 saSpeedMatch.saSpeedMatch(): NUM HILOS: (ROSTRO)3
+str@strailsas.com 27.7.2017 11:15:43 saOspeedMatch.inicializarMatcher(): CARGANDO MATCHER
+str@strailsas.com 27.7.2017 11:15:43 saOspeedMatch.inicializarMatcher(): MATCHER CARGADA (OK)
+str@strailsas.com 27.7.2017 11:15:43 cifxConfig.bleerArchCargaPrtros: Cargando archivo configuracion: appbots.conf
+str@strailsas.com 27.7.2017 11:15:43 (ROSTRO) RecordDB.cargaParametrosConf(): INICIO CARGA DE PARAMETROS
+str@strailsas.com 27.7.2017 11:15:43 (ROSTRO) RecordDB.cargaParametrosConf(): FIN CARGA DE PARAMETROS
+str@strailsas.com 27.7.2017 11:15:43 (ROSTRO)RecordDB(): CARGANDO BIOMETRIAS ... INICIANDO EN:301
+str@strailsas.com 27.7.2017 11:15:44 saOspeedMatch.inicializarMatcher(): CARGANDO MATCHER
+str@strailsas.com 27.7.2017 11:15:44 saOspeedMatch.inicializarMatcher(): MATCHER CARGADA (OK)
+str@strailsas.com 27.7.2017 11:15:45 saOspeedMatch.inicializarMatcher(): CARGANDO MATCHER
+str@strailsas.com 27.7.2017 11:15:45 saOspeedMatch.inicializarMatcher(): MATCHER CARGADA (OK)
+str@strailsas.com 27.7.2017 11:24:58 cifxConfig.bleerArchCargaPrtros: Cargando archivo configuracion: appbots.conf
+str@strailsas.com 27.7.2017 11:24:58 ______________________________________________________________________________
+str@strailsas.com 27.7.2017 11:24:58 AppBots.main(): INICIANDO appBots en el Puerto: 3101
+str@strailsas.com 27.7.2017 11:24:58 ______________________________________________________________________________
+str@strailsas.com 27.7.2017 11:24:58 AppBots.Rangos: --------------------------------------------------------------
+str@strailsas.com 27.7.2017 11:24:58 AppBots.Rangos: INICIO HUELLAS: 52501
+str@strailsas.com 27.7.2017 11:24:58 AppBots.Rangos: FINAL HUELLAS: 105000
+str@strailsas.com 27.7.2017 11:24:58 AppBots.Rangos: --------------------------------------------------------------
+str@strailsas.com 27.7.2017 11:24:58 AppBots.Rangos: INICIO ROSTROS: 301
+str@strailsas.com 27.7.2017 11:24:58 AppBots.Rangos: FINAL ROSTROS: 600
+str@strailsas.com 27.7.2017 11:24:58 AppBots.Rangos: --------------------------------------------------------------
+str@strailsas.com 27.7.2017 11:24:58 ______________________________________________________________________________
+str@strailsas.com 27.7.2017 11:24:58 AppBots.Licenciamiento: Cargando Licencias de <ROSTRO>: 3101
+str@strailsas.com 27.7.2017 11:24:58 saOspeedMatch.reiniciaLicencias(): Reiniciando Licencias
+str@strailsas.com 27.7.2017 11:24:58 saOspeedMatch.borrarLicencia(): Borrando Licencias (FacesMatcher) 
+str@strailsas.com 27.7.2017 11:24:58 saOspeedMatch.cargarLicencia(): Cargando Licencia (FacesMatcher) 
+str@strailsas.com 27.7.2017 11:24:58 saOspeedMatch.cargarLicencia(): (FacesMatcher) licencias OK (SingleComputerLicense:VLMatcher)
+str@strailsas.com 27.7.2017 11:24:58 cifxConfig.bleerArchCargaPrtros: Cargando archivo configuracion: appbots.conf
+str@strailsas.com 27.7.2017 11:24:58 TURBO ACTIVADO!!!!
+str@strailsas.com 27.7.2017 11:24:58 saSpeedMatch.saSpeedMatch(): NUM REGISTROS POR HILO(ROSTRO): 100
+str@strailsas.com 27.7.2017 11:24:58 saSpeedMatch.saSpeedMatch(): NUM HILOS: (ROSTRO)3
+str@strailsas.com 27.7.2017 11:24:58 saOspeedMatch.inicializarMatcher(): CARGANDO MATCHER
+str@strailsas.com 27.7.2017 11:24:58 saOspeedMatch.inicializarMatcher(): MATCHER CARGADA (OK)
+str@strailsas.com 27.7.2017 11:24:58 cifxConfig.bleerArchCargaPrtros: Cargando archivo configuracion: appbots.conf
+str@strailsas.com 27.7.2017 11:24:58 (ROSTRO) RecordDB.cargaParametrosConf(): INICIO CARGA DE PARAMETROS
+str@strailsas.com 27.7.2017 11:24:58 (ROSTRO) RecordDB.cargaParametrosConf(): FIN CARGA DE PARAMETROS
+str@strailsas.com 27.7.2017 11:24:58 (ROSTRO)RecordDB(): CARGANDO BIOMETRIAS ... INICIANDO EN:301
+str@strailsas.com 27.7.2017 11:24:58 saOspeedMatch.inicializarMatcher(): CARGANDO MATCHER
+str@strailsas.com 27.7.2017 11:24:58 saOspeedMatch.inicializarMatcher(): MATCHER CARGADA (OK)
+str@strailsas.com 27.7.2017 11:24:58 saOspeedMatch.inicializarMatcher(): CARGANDO MATCHER
+str@strailsas.com 27.7.2017 11:24:58 saOspeedMatch.inicializarMatcher(): MATCHER CARGADA (OK)
+str@strailsas.com 27.7.2017 11:24:59 (ROSTRO)RecordDB(): 
+BIOMETRIAS CARGADAS ... HASTA:300
+str@strailsas.com 27.7.2017 11:24:59 (ROSTRO)RecordDB(): BIOMETRIAS CARGADAS + INICIO ... TOTAL:601
+str@strailsas.com 27.7.2017 11:24:59 (ROSTRO)RecordDB(): BIOMETRIAS ESPERADAS:600
+str@strailsas.com 27.7.2017 11:24:59 ______________________________________________________________________________
+str@strailsas.com 27.7.2017 11:24:59 ______________________________________________________________________________
+str@strailsas.com 27.7.2017 11:24:59 AppBots.Licenciamiento: Cargando Licencias de <HUELLA>: 
+str@strailsas.com 27.7.2017 11:24:59 saOspeedMatch.reiniciaLicencias(): Reiniciando Licencias
+str@strailsas.com 27.7.2017 11:24:59 saOspeedMatch.borrarLicencia(): Borrando Licencias (FingersMatcher) 
+str@strailsas.com 27.7.2017 11:24:59 saOspeedMatch.cargarLicencia(): Cargando Licencia (FingersMatcher) 
+str@strailsas.com 27.7.2017 11:24:59 saOspeedMatch.cargarLicencia(): (FingersMatcher) licencias OK (SingleComputerLicense:VFMatcher)
+str@strailsas.com 27.7.2017 11:24:59 cifxConfig.bleerArchCargaPrtros: Cargando archivo configuracion: appbots.conf
+str@strailsas.com 27.7.2017 11:24:59 TURBO ACTIVADO!!!!
+str@strailsas.com 27.7.2017 11:24:59 saSpeedMatch.saSpeedMatch(): NUM REGISTROS POR HILO (HUELLA): 3500
+str@strailsas.com 27.7.2017 11:24:59 saSpeedMatch.saSpeedMatch(): NUM HILOS (HUELLA): 15
+str@strailsas.com 27.7.2017 11:24:59 saOspeedMatch.inicializarMatcher(): CARGANDO MATCHER
+str@strailsas.com 27.7.2017 11:24:59 saOspeedMatch.inicializarMatcher(): MATCHER CARGADA (OK)
+str@strailsas.com 27.7.2017 11:24:59 cifxConfig.bleerArchCargaPrtros: Cargando archivo configuracion: appbots.conf
+str@strailsas.com 27.7.2017 11:24:59 (HUELLA) RecordDB.cargaParametrosConf(): INICIO CARGA DE PARAMETROS
+str@strailsas.com 27.7.2017 11:24:59 (HUELLA) RecordDB.cargaParametrosConf(): FIN CARGA DE PARAMETROS
+str@strailsas.com 27.7.2017 11:24:59 (HUELLA)RecordDB(): CARGANDO BIOMETRIAS ... INICIANDO EN:52501
+str@strailsas.com 27.7.2017 11:25:0 saOspeedMatch.inicializarMatcher(): CARGANDO MATCHER
+str@strailsas.com 27.7.2017 11:25:0 saOspeedMatch.inicializarMatcher(): MATCHER CARGADA (OK)
+str@strailsas.com 27.7.2017 11:25:0 saOspeedMatch.inicializarMatcher(): CARGANDO MATCHER
+str@strailsas.com 27.7.2017 11:25:0 saOspeedMatch.inicializarMatcher(): MATCHER CARGADA (OK)
+str@strailsas.com 27.7.2017 11:25:1 saOspeedMatch.inicializarMatcher(): CARGANDO MATCHER
+str@strailsas.com 27.7.2017 11:25:1 saOspeedMatch.inicializarMatcher(): MATCHER CARGADA (OK)
+str@strailsas.com 27.7.2017 11:25:2 saOspeedMatch.inicializarMatcher(): CARGANDO MATCHER
+str@strailsas.com 27.7.2017 11:25:2 saOspeedMatch.inicializarMatcher(): MATCHER CARGADA (OK)
+str@strailsas.com 27.7.2017 11:25:2 saOspeedMatch.inicializarMatcher(): CARGANDO MATCHER
+str@strailsas.com 27.7.2017 11:25:2 saOspeedMatch.inicializarMatcher(): MATCHER CARGADA (OK)
+str@strailsas.com 27.7.2017 11:25:3 saOspeedMatch.inicializarMatcher(): CARGANDO MATCHER
+str@strailsas.com 27.7.2017 11:25:3 saOspeedMatch.inicializarMatcher(): MATCHER CARGADA (OK)
+str@strailsas.com 27.7.2017 11:25:4 saOspeedMatch.inicializarMatcher(): CARGANDO MATCHER
+str@strailsas.com 27.7.2017 11:25:4 saOspeedMatch.inicializarMatcher(): MATCHER CARGADA (OK)
+str@strailsas.com 27.7.2017 11:25:4 saOspeedMatch.inicializarMatcher(): CARGANDO MATCHER
+str@strailsas.com 27.7.2017 11:25:4 saOspeedMatch.inicializarMatcher(): MATCHER CARGADA (OK)
+str@strailsas.com 27.7.2017 11:25:5 saOspeedMatch.inicializarMatcher(): CARGANDO MATCHER
+str@strailsas.com 27.7.2017 11:25:5 saOspeedMatch.inicializarMatcher(): MATCHER CARGADA (OK)
+str@strailsas.com 27.7.2017 11:25:5 saOspeedMatch.inicializarMatcher(): CARGANDO MATCHER
+str@strailsas.com 27.7.2017 11:25:6 saOspeedMatch.inicializarMatcher(): MATCHER CARGADA (OK)
+str@strailsas.com 27.7.2017 11:25:6 saOspeedMatch.inicializarMatcher(): CARGANDO MATCHER
+str@strailsas.com 27.7.2017 11:25:6 saOspeedMatch.inicializarMatcher(): MATCHER CARGADA (OK)
+str@strailsas.com 27.7.2017 11:25:7 saOspeedMatch.inicializarMatcher(): CARGANDO MATCHER
+str@strailsas.com 27.7.2017 11:25:7 saOspeedMatch.inicializarMatcher(): MATCHER CARGADA (OK)
+str@strailsas.com 27.7.2017 11:25:8 saOspeedMatch.inicializarMatcher(): CARGANDO MATCHER
+str@strailsas.com 27.7.2017 11:25:8 saOspeedMatch.inicializarMatcher(): MATCHER CARGADA (OK)
+str@strailsas.com 27.7.2017 11:25:9 saOspeedMatch.inicializarMatcher(): CARGANDO MATCHER
+str@strailsas.com 27.7.2017 11:25:9 saOspeedMatch.inicializarMatcher(): MATCHER CARGADA (OK)
+str@strailsas.com 27.7.2017 11:25:10 (HUELLA)RecordDB(): 
+BIOMETRIAS CARGADAS ... HASTA:52500
+str@strailsas.com 27.7.2017 11:25:10 (HUELLA)RecordDB(): BIOMETRIAS CARGADAS + INICIO ... TOTAL:105001
+str@strailsas.com 27.7.2017 11:25:10 (HUELLA)RecordDB(): BIOMETRIAS ESPERADAS:105000
+str@strailsas.com 27.7.2017 11:25:10 ______________________________________________________________________________
+str@strailsas.com 27.7.2017 11:25:10 BioRostro.setMatchingTreshold(): (ROSTRO) Asignando (90) a setFaceMatchingThreshold: 
+str@strailsas.com 27.7.2017 11:25:10 BioHuella.setMatchingTreshold(): (HUELLA) Asignando (90) a setFingerMatchingThreshold: 
+str@strailsas.com 27.7.2017 11:25:10 ______________________________________________________________________________
+str@strailsas.com 27.7.2017 11:25:10 AppBots.main: TimeOut en: 0
+str@strailsas.com 27.7.2017 11:25:10 AppBots.main(): Sistema Operativo: Windows Server 2008 R2
+str@strailsas.com 27.7.2017 11:25:10 ______________________________________________________________________________
+str@strailsas.com 27.7.2017 11:25:10 C:\Users\fenixadmin
+str@strailsas.com 27.7.2017 11:25:10 C:\Fenix\Fenix\AppBots1
+str@strailsas.com 27.7.2017 11:25:10 ______________________________________________________________________________
+str@strailsas.com 27.7.2017 11:25:10 AppBots.main(): SERVIDOR appBots VERSION 1.9.31b
+str@strailsas.com 27.7.2017 11:25:10 AppBots.main(): SERVIDOR appBots OK
+str@strailsas.com 27.7.2017 11:25:10 ______________________________________________________________________________
+str@strailsas.com 27.7.2017 11:25:10 ______________________________________________________________________________
+str@strailsas.com 27.7.2017 11:27:3 cifxConfig.bleerArchCargaPrtros: Cargando archivo configuracion: appbots.conf
+str@strailsas.com 27.7.2017 11:27:3 ______________________________________________________________________________
+str@strailsas.com 27.7.2017 11:27:3 AppBots.main(): INICIANDO appBots en el Puerto: 3101
+str@strailsas.com 27.7.2017 11:27:3 ______________________________________________________________________________
+str@strailsas.com 27.7.2017 11:27:3 AppBots.Rangos: --------------------------------------------------------------
+str@strailsas.com 27.7.2017 11:27:3 AppBots.Rangos: INICIO HUELLAS: 52501
+str@strailsas.com 27.7.2017 11:27:3 AppBots.Rangos: FINAL HUELLAS: 105000
+str@strailsas.com 27.7.2017 11:27:3 AppBots.Rangos: --------------------------------------------------------------
+str@strailsas.com 27.7.2017 11:27:3 AppBots.Rangos: INICIO ROSTROS: 301
+str@strailsas.com 27.7.2017 11:27:3 AppBots.Rangos: FINAL ROSTROS: 600
+str@strailsas.com 27.7.2017 11:27:3 AppBots.Rangos: --------------------------------------------------------------
+str@strailsas.com 27.7.2017 11:27:3 ______________________________________________________________________________
+str@strailsas.com 27.7.2017 11:27:3 AppBots.Licenciamiento: Cargando Licencias de <ROSTRO>: 3101
+str@strailsas.com 27.7.2017 11:27:3 saOspeedMatch.reiniciaLicencias(): Reiniciando Licencias
+str@strailsas.com 27.7.2017 11:27:3 saOspeedMatch.borrarLicencia(): Borrando Licencias (FacesMatcher) 
+str@strailsas.com 27.7.2017 11:27:3 saOspeedMatch.cargarLicencia(): Cargando Licencia (FacesMatcher) 
+str@strailsas.com 27.7.2017 11:27:3 saOspeedMatch.cargarLicencia(): (FacesMatcher) licencias OK (SingleComputerLicense:VLMatcher)
+str@strailsas.com 27.7.2017 11:27:3 cifxConfig.bleerArchCargaPrtros: Cargando archivo configuracion: appbots.conf
+str@strailsas.com 27.7.2017 11:27:3 TURBO ACTIVADO!!!!
+str@strailsas.com 27.7.2017 11:27:3 saSpeedMatch.saSpeedMatch(): NUM REGISTROS POR HILO(ROSTRO): 100
+str@strailsas.com 27.7.2017 11:27:3 saSpeedMatch.saSpeedMatch(): NUM HILOS: (ROSTRO)3
+str@strailsas.com 27.7.2017 11:27:3 saOspeedMatch.inicializarMatcher(): CARGANDO MATCHER
+str@strailsas.com 27.7.2017 11:27:3 saOspeedMatch.inicializarMatcher(): MATCHER CARGADA (OK)
+str@strailsas.com 27.7.2017 11:27:3 cifxConfig.bleerArchCargaPrtros: Cargando archivo configuracion: appbots.conf
+str@strailsas.com 27.7.2017 11:27:3 (ROSTRO) RecordDB.cargaParametrosConf(): INICIO CARGA DE PARAMETROS
+str@strailsas.com 27.7.2017 11:27:3 (ROSTRO) RecordDB.cargaParametrosConf(): FIN CARGA DE PARAMETROS
+str@strailsas.com 27.7.2017 11:27:4 (ROSTRO)RecordDB(): CARGANDO BIOMETRIAS ... INICIANDO EN:301
+str@strailsas.com 27.7.2017 11:27:4 saOspeedMatch.inicializarMatcher(): CARGANDO MATCHER
+str@strailsas.com 27.7.2017 11:27:4 saOspeedMatch.inicializarMatcher(): MATCHER CARGADA (OK)
+str@strailsas.com 27.7.2017 11:27:4 saOspeedMatch.inicializarMatcher(): CARGANDO MATCHER
+str@strailsas.com 27.7.2017 11:27:4 saOspeedMatch.inicializarMatcher(): MATCHER CARGADA (OK)
+str@strailsas.com 27.7.2017 11:27:4 (ROSTRO)RecordDB(): 
+BIOMETRIAS CARGADAS ... HASTA:300
+str@strailsas.com 27.7.2017 11:27:4 (ROSTRO)RecordDB(): BIOMETRIAS CARGADAS + INICIO ... TOTAL:601
+str@strailsas.com 27.7.2017 11:27:4 (ROSTRO)RecordDB(): BIOMETRIAS ESPERADAS:600
+str@strailsas.com 27.7.2017 11:27:4 ______________________________________________________________________________
+str@strailsas.com 27.7.2017 11:27:4 ______________________________________________________________________________
+str@strailsas.com 27.7.2017 11:27:4 AppBots.Licenciamiento: Cargando Licencias de <HUELLA>: 
+str@strailsas.com 27.7.2017 11:27:4 saOspeedMatch.reiniciaLicencias(): Reiniciando Licencias
+str@strailsas.com 27.7.2017 11:27:4 saOspeedMatch.borrarLicencia(): Borrando Licencias (FingersMatcher) 
+str@strailsas.com 27.7.2017 11:27:4 saOspeedMatch.cargarLicencia(): Cargando Licencia (FingersMatcher) 
+str@strailsas.com 27.7.2017 11:27:4 saOspeedMatch.cargarLicencia(): (FingersMatcher) licencias OK (SingleComputerLicense:VFMatcher)
+str@strailsas.com 27.7.2017 11:27:4 cifxConfig.bleerArchCargaPrtros: Cargando archivo configuracion: appbots.conf
+str@strailsas.com 27.7.2017 11:27:4 TURBO ACTIVADO!!!!
+str@strailsas.com 27.7.2017 11:27:4 saSpeedMatch.saSpeedMatch(): NUM REGISTROS POR HILO (HUELLA): 3500
+str@strailsas.com 27.7.2017 11:27:4 saSpeedMatch.saSpeedMatch(): NUM HILOS (HUELLA): 15
+str@strailsas.com 27.7.2017 11:27:4 saOspeedMatch.inicializarMatcher(): CARGANDO MATCHER
+str@strailsas.com 27.7.2017 11:27:4 saOspeedMatch.inicializarMatcher(): MATCHER CARGADA (OK)
+str@strailsas.com 27.7.2017 11:27:4 cifxConfig.bleerArchCargaPrtros: Cargando archivo configuracion: appbots.conf
+str@strailsas.com 27.7.2017 11:27:4 (HUELLA) RecordDB.cargaParametrosConf(): INICIO CARGA DE PARAMETROS
+str@strailsas.com 27.7.2017 11:27:4 (HUELLA) RecordDB.cargaParametrosConf(): FIN CARGA DE PARAMETROS
+str@strailsas.com 27.7.2017 11:27:4 (HUELLA)RecordDB(): CARGANDO BIOMETRIAS ... INICIANDO EN:52501
+str@strailsas.com 27.7.2017 11:27:4 saOspeedMatch.inicializarMatcher(): CARGANDO MATCHER
+str@strailsas.com 27.7.2017 11:27:4 saOspeedMatch.inicializarMatcher(): MATCHER CARGADA (OK)
+str@strailsas.com 27.7.2017 11:27:5 saOspeedMatch.inicializarMatcher(): CARGANDO MATCHER
+str@strailsas.com 27.7.2017 11:27:5 saOspeedMatch.inicializarMatcher(): MATCHER CARGADA (OK)
+str@strailsas.com 27.7.2017 11:28:6 cifxConfig.bleerArchCargaPrtros: Cargando archivo configuracion: appbots.conf
+str@strailsas.com 27.7.2017 11:28:6 ______________________________________________________________________________
+str@strailsas.com 27.7.2017 11:28:6 AppBots.main(): INICIANDO appBots en el Puerto: 3101
+str@strailsas.com 27.7.2017 11:28:6 ______________________________________________________________________________
+str@strailsas.com 27.7.2017 11:28:6 AppBots.Rangos: --------------------------------------------------------------
+str@strailsas.com 27.7.2017 11:28:6 AppBots.Rangos: INICIO HUELLAS: 52501
+str@strailsas.com 27.7.2017 11:28:6 AppBots.Rangos: FINAL HUELLAS: 105000
+str@strailsas.com 27.7.2017 11:28:6 AppBots.Rangos: --------------------------------------------------------------
+str@strailsas.com 27.7.2017 11:28:6 AppBots.Rangos: INICIO ROSTROS: 301
+str@strailsas.com 27.7.2017 11:28:6 AppBots.Rangos: FINAL ROSTROS: 600
+str@strailsas.com 27.7.2017 11:28:6 AppBots.Rangos: --------------------------------------------------------------
+str@strailsas.com 27.7.2017 11:28:6 ______________________________________________________________________________
+str@strailsas.com 27.7.2017 11:28:6 AppBots.Licenciamiento: Cargando Licencias de <ROSTRO>: 3101
+str@strailsas.com 27.7.2017 11:28:6 saOspeedMatch.reiniciaLicencias(): Reiniciando Licencias
+str@strailsas.com 27.7.2017 11:28:6 saOspeedMatch.borrarLicencia(): Borrando Licencias (FacesMatcher) 
+str@strailsas.com 27.7.2017 11:28:6 saOspeedMatch.cargarLicencia(): Cargando Licencia (FacesMatcher) 
+str@strailsas.com 27.7.2017 11:28:6 saOspeedMatch.cargarLicencia(): (FacesMatcher) licencias OK (SingleComputerLicense:VLMatcher)
+str@strailsas.com 27.7.2017 11:28:6 cifxConfig.bleerArchCargaPrtros: Cargando archivo configuracion: appbots.conf
+str@strailsas.com 27.7.2017 11:28:6 TURBO ACTIVADO!!!!
+str@strailsas.com 27.7.2017 11:28:6 saSpeedMatch.saSpeedMatch(): NUM REGISTROS POR HILO(ROSTRO): 100
+str@strailsas.com 27.7.2017 11:28:6 saSpeedMatch.saSpeedMatch(): NUM HILOS: (ROSTRO)3
+str@strailsas.com 27.7.2017 11:28:6 saOspeedMatch.inicializarMatcher(): CARGANDO MATCHER
+str@strailsas.com 27.7.2017 11:28:6 saOspeedMatch.inicializarMatcher(): MATCHER CARGADA (OK)
+str@strailsas.com 27.7.2017 11:28:6 cifxConfig.bleerArchCargaPrtros: Cargando archivo configuracion: appbots.conf
+str@strailsas.com 27.7.2017 11:28:6 (ROSTRO) RecordDB.cargaParametrosConf(): INICIO CARGA DE PARAMETROS
+str@strailsas.com 27.7.2017 11:28:6 (ROSTRO) RecordDB.cargaParametrosConf(): FIN CARGA DE PARAMETROS
+str@strailsas.com 27.7.2017 11:28:6 (ROSTRO)RecordDB(): CARGANDO BIOMETRIAS ... INICIANDO EN:301
+str@strailsas.com 27.7.2017 11:28:6 saOspeedMatch.inicializarMatcher(): CARGANDO MATCHER
+str@strailsas.com 27.7.2017 11:28:6 saOspeedMatch.inicializarMatcher(): MATCHER CARGADA (OK)
+str@strailsas.com 27.7.2017 11:28:6 saOspeedMatch.inicializarMatcher(): CARGANDO MATCHER
+str@strailsas.com 27.7.2017 11:28:6 saOspeedMatch.inicializarMatcher(): MATCHER CARGADA (OK)
+str@strailsas.com 27.7.2017 11:28:6 (ROSTRO)RecordDB(): 
+BIOMETRIAS CARGADAS ... HASTA:300
+str@strailsas.com 27.7.2017 11:28:6 (ROSTRO)RecordDB(): BIOMETRIAS CARGADAS + INICIO ... TOTAL:601
+str@strailsas.com 27.7.2017 11:28:6 (ROSTRO)RecordDB(): BIOMETRIAS ESPERADAS:600
+str@strailsas.com 27.7.2017 11:28:6 ______________________________________________________________________________
+str@strailsas.com 27.7.2017 11:28:6 ______________________________________________________________________________
+str@strailsas.com 27.7.2017 11:28:6 AppBots.Licenciamiento: Cargando Licencias de <HUELLA>: 
+str@strailsas.com 27.7.2017 11:28:6 saOspeedMatch.reiniciaLicencias(): Reiniciando Licencias
+str@strailsas.com 27.7.2017 11:28:6 saOspeedMatch.borrarLicencia(): Borrando Licencias (FingersMatcher) 
+str@strailsas.com 27.7.2017 11:28:6 saOspeedMatch.cargarLicencia(): Cargando Licencia (FingersMatcher) 
+str@strailsas.com 27.7.2017 11:28:6 saOspeedMatch.cargarLicencia(): (FingersMatcher) licencias OK (SingleComputerLicense:VFMatcher)
+str@strailsas.com 27.7.2017 11:28:6 cifxConfig.bleerArchCargaPrtros: Cargando archivo configuracion: appbots.conf
+str@strailsas.com 27.7.2017 11:28:6 TURBO ACTIVADO!!!!
+str@strailsas.com 27.7.2017 11:28:7 saSpeedMatch.saSpeedMatch(): NUM REGISTROS POR HILO (HUELLA): 3500
+str@strailsas.com 27.7.2017 11:28:7 saSpeedMatch.saSpeedMatch(): NUM HILOS (HUELLA): 15
+str@strailsas.com 27.7.2017 11:28:7 saOspeedMatch.inicializarMatcher(): CARGANDO MATCHER
+str@strailsas.com 27.7.2017 11:28:7 saOspeedMatch.inicializarMatcher(): MATCHER CARGADA (OK)
+str@strailsas.com 27.7.2017 11:28:7 cifxConfig.bleerArchCargaPrtros: Cargando archivo configuracion: appbots.conf
+str@strailsas.com 27.7.2017 11:28:7 (HUELLA) RecordDB.cargaParametrosConf(): INICIO CARGA DE PARAMETROS
+str@strailsas.com 27.7.2017 11:28:7 (HUELLA) RecordDB.cargaParametrosConf(): FIN CARGA DE PARAMETROS
+str@strailsas.com 27.7.2017 11:28:7 (HUELLA)RecordDB(): CARGANDO BIOMETRIAS ... INICIANDO EN:52501
+str@strailsas.com 27.7.2017 11:28:7 saOspeedMatch.inicializarMatcher(): CARGANDO MATCHER
+str@strailsas.com 27.7.2017 11:28:7 saOspeedMatch.inicializarMatcher(): MATCHER CARGADA (OK)
+str@strailsas.com 27.7.2017 11:28:7 saOspeedMatch.inicializarMatcher(): CARGANDO MATCHER
+str@strailsas.com 27.7.2017 11:28:7 saOspeedMatch.inicializarMatcher(): MATCHER CARGADA (OK)
+str@strailsas.com 27.7.2017 11:28:8 saOspeedMatch.inicializarMatcher(): CARGANDO MATCHER
+str@strailsas.com 27.7.2017 11:28:8 saOspeedMatch.inicializarMatcher(): MATCHER CARGADA (OK)
+str@strailsas.com 27.7.2017 11:28:8 saOspeedMatch.inicializarMatcher(): CARGANDO MATCHER
+str@strailsas.com 27.7.2017 11:28:8 saOspeedMatch.inicializarMatcher(): MATCHER CARGADA (OK)
+str@strailsas.com 27.7.2017 11:28:8 saOspeedMatch.inicializarMatcher(): CARGANDO MATCHER
+str@strailsas.com 27.7.2017 11:28:8 saOspeedMatch.inicializarMatcher(): MATCHER CARGADA (OK)
+str@strailsas.com 27.7.2017 11:28:8 saOspeedMatch.inicializarMatcher(): CARGANDO MATCHER
+str@strailsas.com 27.7.2017 11:28:9 saOspeedMatch.inicializarMatcher(): MATCHER CARGADA (OK)
+str@strailsas.com 27.7.2017 11:28:9 saOspeedMatch.inicializarMatcher(): CARGANDO MATCHER
+str@strailsas.com 27.7.2017 11:28:9 saOspeedMatch.inicializarMatcher(): MATCHER CARGADA (OK)
+str@strailsas.com 27.7.2017 11:28:9 saOspeedMatch.inicializarMatcher(): CARGANDO MATCHER
+str@strailsas.com 27.7.2017 11:28:9 saOspeedMatch.inicializarMatcher(): MATCHER CARGADA (OK)
+str@strailsas.com 27.7.2017 11:28:9 saOspeedMatch.inicializarMatcher(): CARGANDO MATCHER
+str@strailsas.com 27.7.2017 11:28:10 saOspeedMatch.inicializarMatcher(): MATCHER CARGADA (OK)
+str@strailsas.com 27.7.2017 11:28:10 saOspeedMatch.inicializarMatcher(): CARGANDO MATCHER
+str@strailsas.com 27.7.2017 11:28:10 saOspeedMatch.inicializarMatcher(): MATCHER CARGADA (OK)
+str@strailsas.com 27.7.2017 11:28:10 saOspeedMatch.inicializarMatcher(): CARGANDO MATCHER
+str@strailsas.com 27.7.2017 11:28:10 saOspeedMatch.inicializarMatcher(): MATCHER CARGADA (OK)
+str@strailsas.com 27.7.2017 11:28:11 saOspeedMatch.inicializarMatcher(): CARGANDO MATCHER
+str@strailsas.com 27.7.2017 11:28:11 saOspeedMatch.inicializarMatcher(): MATCHER CARGADA (OK)
+str@strailsas.com 27.7.2017 11:28:11 saOspeedMatch.inicializarMatcher(): CARGANDO MATCHER
+str@strailsas.com 27.7.2017 11:28:11 saOspeedMatch.inicializarMatcher(): MATCHER CARGADA (OK)
+str@strailsas.com 27.7.2017 11:28:12 saOspeedMatch.inicializarMatcher(): CARGANDO MATCHER
+str@strailsas.com 27.7.2017 11:28:12 saOspeedMatch.inicializarMatcher(): MATCHER CARGADA (OK)
+str@strailsas.com 27.7.2017 11:28:13 (HUELLA)RecordDB(): 
+BIOMETRIAS CARGADAS ... HASTA:52500
+str@strailsas.com 27.7.2017 11:28:13 (HUELLA)RecordDB(): BIOMETRIAS CARGADAS + INICIO ... TOTAL:105001
+str@strailsas.com 27.7.2017 11:28:13 (HUELLA)RecordDB(): BIOMETRIAS ESPERADAS:105000
+str@strailsas.com 27.7.2017 11:28:13 ______________________________________________________________________________
+str@strailsas.com 27.7.2017 11:28:13 BioRostro.setMatchingTreshold(): (ROSTRO) Asignando (90) a setFaceMatchingThreshold: 
+str@strailsas.com 27.7.2017 11:28:13 BioHuella.setMatchingTreshold(): (HUELLA) Asignando (90) a setFingerMatchingThreshold: 
+str@strailsas.com 27.7.2017 11:28:13 ______________________________________________________________________________
+str@strailsas.com 27.7.2017 11:28:13 AppBots.main: TimeOut en: 0
+str@strailsas.com 27.7.2017 11:28:13 AppBots.main(): Sistema Operativo: Windows Server 2008 R2
+str@strailsas.com 27.7.2017 11:28:13 ______________________________________________________________________________
+str@strailsas.com 27.7.2017 11:28:13 C:\Users\fenixadmin
+str@strailsas.com 27.7.2017 11:28:13 C:\Fenix\Fenix\AppBots1
+str@strailsas.com 27.7.2017 11:28:13 ______________________________________________________________________________
+str@strailsas.com 27.7.2017 11:28:13 AppBots.main(): SERVIDOR appBots VERSION 1.9.31b
+str@strailsas.com 27.7.2017 11:28:13 AppBots.main(): SERVIDOR appBots OK
+str@strailsas.com 27.7.2017 11:28:13 ______________________________________________________________________________
+str@strailsas.com 27.7.2017 11:28:13 ______________________________________________________________________________

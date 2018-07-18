@@ -1,0 +1,2 @@
+ifx@ifxV13 28.12.2011 2:30:4 cifxCliente: INICIO Conexion (172.16.1.196:3113)
+ifx@ifxV13 28.12.2011 2:30:4 cifxCliente.cifxCliente: Time out :java.net.SocketTimeoutException: connect timed out

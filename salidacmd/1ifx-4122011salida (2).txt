@@ -1,0 +1,11 @@
+adirector.conf
+adirector.log
+adirectorbots.conf
+build
+build.xml
+ifxlog.log
+manifest.mf
+nbproject
+salidacmd
+src
+ERRORES ===== 
